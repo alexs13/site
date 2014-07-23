@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1853</id>
+<timestamp_x>1290516418</timestamp_x>
+<date_create>1287668367</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>635</chapter_id>
+<name>Менеджер файлов</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Из <b>Административной части</b> управление структурой осуществляется с помощью <b>Менеджера файлов</b>. Несмотря на то, что все работы по управлению структурой можно осуществлять из <b>Публичной части</b>, Контент-менеджеру будет полезно знать основные моменты по работе с <b>Менеджером файлов</b>.</p>
+ 
+<p>Инструменты и средства управления <b>Менеджера файлов</b> позволяют:</p>
+ 
+<ul> 
+  <li>создавать и удалять папки и файлы; </li>
+ 
+  <li>выполнять загрузку файлов в систему; </li>
+ 
+  <li>выгружать файлы на локальный компьютер; </li>
+ 
+  <li>управлять свойствами страниц и папок; </li>
+ 
+  <li>переходить к созданию и редактированию страниц; </li>
+ 
+  <li>управлять меню разделов сайта; </li>
+ 
+  <li>управлять правами доступа групп пользователей к страницам и разделам сайта; </li>
+ 
+  <li>просматривать права на доступ к файлам и папкам на уровне операционной системы. </li>
+ </ul>
+ 
+<p>Перейти в <b>Менеджер файлов</b> можно из административного меню (<span class="path">Контент &gt; Структура сайта</span>). Меню для секции <b>Структура сайта</b> создается динамически по мере погружения в уровни иерархии:</p>
+ 
+<table> 
+  <tbody> 
+    <tr><td><img height="365" width="165" src="cid:resources/res64/sqP5a.site_structure_upload.png" /></td><td></td><td><img height="369" width="209" src="cid:resources/res64/pzz4B.site_structure.png" /></td></tr>
+   </tbody>
+ </table>
+
+<p>В рамках этой секции представлена логическая и физическая структура сайта.</p>
+
+<ul>
+<li>Логическая структура - список папок и файлов в том виде, как они представляются пользователям сайта.</li>
+<li>Физическая структура - список папок и файлов в том виде, в котором они существуют на сервере.</li> 
+ </ul>
+
+<p>Разница между логической и физической структурой в свете выполнения базовых действий на сайте в том, что в рамках логической структуры невозможно удаление, перемещение файлов. А только редактирование и просмотр.</p>
+
+<p>На верхнем уровне иерархии находятся сайты, работающие под управлением системы. Для того чтобы перейти к управлению логической структурой определенного сайта, выберите пункт с его названием. Приемы работы с <b>Менеджером файлов</b> довольно просты и во многом аналогичны приемам работы в <b>Проводнике Windows</b>.</p>
+
+<p>В рамках логической структуры все папки и файлы отображаются под заданными заголовками. Например, если для папки <code>/communication</code> установлен заголовок <b>Общение</b>, данная папка будет показана в менеджере файлов следующим образом:</p>
+ 
+<p><img height="470" border="0" width="599" src="cid:resources/res64/KTmuy.communication_name.png" /></p>
+
+<p>Пункт <b>Файлы и папки</b> позволяет отобразить всю файловую структуру системы и перейти к ее управлению. В рамках физической структуры все файлы и папки отображаются под своими именами:</p>
+ 
+<p><img height="470" border="0" width="599" src="cid:resources/res64/NRskv.communication_folder_name.png" /></p>
+
+<p>Менеджер файлов содержит следующие элементы управления:</p>
+ 
+<ul> 
+  <li>Контекстная панель;</li>
+ 
+  <li>Контекстное меню;</li>
+ 
+  <li>Панель групповых операций.</li>
+ </ul>
+ 
+<h3>Контекстная панель</h3>
+ 
+<p>Контекстная панель содержит набор общих команд, необходимых для управления структурой и контентом сайта:</p>
+ 
+<p><img height="82" width="588" src="cid:resources/res64/aAwUD.contex_panel_admin.png" /></p>
+
+<table cellspacing=0 cellpadding=0> 		 
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 		 
+    <table cellspacing="1" cellpadding="5"> 			 
+          <tbody> 
+            <tr bgcolor="silver"><td><b>Иконка</b></td><td><b>Название</b></td><td><b>Описание</b> 
+               </td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td><img height="20" width="20" src="cid:resources/res64/jlmAt.new_folder.gif" /></td><td>Новая папка</td><td > создание новой папки в текущей директории;</td></tr>
+           			 
+            <tr bgcolor="white"><td><img height="20" width="20" src="cid:resources/res64/c6xTd.new_file.gif" /></td><td>Новый файл</td><td > создание нового файла в текущей директории;</td> </tr>
+
+            <tr bgcolor="#EEEEEE"><td><img height="20" width="20" src="cid:resources/res64/9cvSS.upload.gif" /></td><td>Загрузить файл</td><td > переход к форме загрузки файлов в текущую директорию;</td></tr>
+           			 
+            <tr bgcolor="white"><td><img height="20" width="20" src="cid:resources/res64/DLoyV.new_menu.gif" /></td><td>Добавить меню</td><td > создание меню для текущего раздела сайта;</td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td><img height="20" width="20" src="cid:resources/res64/zMyz5.folder_prop.gif" /></td><td>Свойства папки</td><td> переход к форме управления свойствами текущей папки;</td></tr>
+           			 			 
+            <tr bgcolor="white"><td></td><td>Показать права на доступ для</td><td valign="top"> позволяет показать в столбце <b>Права на доступ продукта</b> уровень прав доступа к файлам и папкам для выбранной группы пользователей; </td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td></td><td>Путь</td><td> позволяет перейти в указанную директорию сайта;</td></tr>
+
+            <tr bgcolor="white"><td><img height="18" width="20" src="cid:resources/res64/zKEfP.list_settings.png" /></td><td>Настроить</td><td> позволяет настроить вид списка файлов и папок;</td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td><img height="20" width="20" src="cid:resources/res64/c2J6v.excel.gif" /></td><td>Excel</td><td> экспортирует данные из отображаемой таблицы в формат <b>MS Excel</b>.</td></tr>
+           </tbody>
+         </table>
+       		</td></tr>
+   </tbody>
+ </table>
+
+<h3>Контекстное меню</h3>
+ 
+<p>Контекстное меню позволяет выполнять определенные действия над выбранным файлом или папкой. Вызвать контекстное меню элемента можно с помощью кнопки <img height="20" width="30" src="cid:resources/res64/FRXgF.action_button_admin.png" />, расположенной в столбце <b>Действия</b>, либо с помощью клика правой кнопкой мыши на выбранном элементе:</p>
+ 
+<table> 
+  <tbody> 
+    <tr><td> 
+        <p><a href="javascript:ShowImg('cid:resources/res64/contex_menu.png',537,152,'Контекстное меню')"><img height="100" border="0" width="353" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res64/liS2m.contex_menu_sm.png" /></a> </p>
+       </td><td></td><td> 
+        <p><a href="javascript:ShowImg('cid:resources/res64/contex_menu_click.png',547,239,'Контекстное меню')"><img height="100" border="0" width="229" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res64/ic7iL.contex_menu_click_sm.png" /></a> </p>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Набор действий в контекстном меню зависит от выбранного элемента, его статуса, а также от уровня прав текущего пользователя.</p>
+ 
+<h3>Панель групповых операций</h3>
+ 
+<p>Данная панель позволяет выполнять групповые операции над элементами списка, отмеченными в <b>Колонке флажков</b>.</p>
+ 
+<p><img height="106" width="497" src="cid:resources/res64/NWk6O.operation_panel.png" /></p>
+ 
+<table cellspacing=0 cellpadding=0> 		 
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 		 
+    <table cellspacing="1" cellpadding="5"> 			 
+          <tbody> 
+            <tr bgcolor="silver"><td><b>Иконка</b></td><td><b>Описание</b> 
+               </td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td valign="top"><img height="23" width="79" src="cid:resources/res64/8DfMA.actions_all.png" /></td><td>применение выбранного действия ко всем элементам в списке;</td></tr>
+           			 
+            <tr bgcolor="white"><td valign="top"><img height="16" width="16" src="cid:resources/res64/2jErV.edit_button.png" /></td><td>быстрое редактирование выбранных элементов непосредственно в списке (и т.ч. переименование файлов и папок);</td></tr>
+
+            <tr bgcolor="#EEEEEE"><td valign="top"><img height="13" width="13" src="cid:resources/res64/vtQhk.delete_button.png" /></td><td>удаление выбранных элементов;</td></tr>
+           			 
+            <tr bgcolor="white"><td valign="top"><img height="20" width="111" src="cid:resources/res64/O2FJK.actions.png" /></td>
+<td>список действий, доступных для выполнения над выбранными элементами: 
+        <ul> 
+          <li><b>Доступ</b> - переход к настройке прав доступа для выбранных элементов;</li>
+         
+          <li><b>Копировать...</b> - копирование выбранных элементов в указанную директорию;</li>
+         
+          <li><b>Переместить...</b> - перемещение выбранных элементов в указанную директорию.</li>
+         </ul>
+       Для выполнения выбранного действия служит кнопка <b>Применить</b>. После нажатия откроется либо форма задания прав, либо окно для выбора директории для перемещения/копирования с дополнительными параметрами.
+
+<p><img height="306" border="0" width="501" src="cid:resources/res64/bzxLB.copi_form.png" /></p>
+</td></tr>
+           
+           </tbody>
+         </table>
+       		</td></tr>
+   </tbody>
+ </table>
+ ]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

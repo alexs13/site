@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1884</id>
+<timestamp_x>1292239715</timestamp_x>
+<date_create>1288336947</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>654</chapter_id>
+<name>Настройка компонентов на работу с информационными блоками</name>
+<sort>500</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Для вывода данных из информационного блока с помощью компонента необходимо произвести настройку компонента. Детально об этом рассказано в уроке <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1910" target="_blank">Размещение и настройка компонентов</a></p>
+
+<p>В каждом компоненте необходимо произвести выбор типа информационного блока и выбор самого информационного блока, чтобы компонент знал какими данными ему оперировать. Как правило поля для таких настроек расположены в группе параметров <b>Основные параметры</b>. (Иногда может встречаться название <b>Основное</b>.)</p>
+
+<p><img height="513" border="0" width="578" src="cid:resources/res133/IuQkn.comp_properties_2.png" /></p>
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

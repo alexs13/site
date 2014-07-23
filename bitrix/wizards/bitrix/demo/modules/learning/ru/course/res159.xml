@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2038</id>
+<timestamp_x>1291894748</timestamp_x>
+<date_create>1291639161</date_create>
+<created_by>6104</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>657</chapter_id>
+<name>Наполнение каталога товаров</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Мы предполагаем, что контент-менеджер действует из публичной части. Мы разместили комплексный компонент <b>Каталог</b>, который сразу создаст все нужные страницы. И теперь наполним каталог содержимым.</p>
+
+<ul><li>Перейдите в режим правки.
+<br /><br />
+<img src="cid:resources/res159/tM3Eq.edit_regime.png" width="384" height="213" border="0">
+
+<li>Наведите курсор мыши на место расположения компонента.
+<br /><br />
+<img src="cid:resources/res159/DAYUM.content_buttons.png" width="536" height="242" border="0">
+<br /><br />
+
+Высветятся кнопки управления контентом каталога.
+</li>
+<li>Нажмите кнопку <b>Добавить раздел</b>. В открывшейся форме укажите название раздела.
+<br /><br />
+<a href="javascript:ShowImg('cid:resources/res159/add_section.png',719,526,'Добавление нового раздела')"><img height="438" border="0" width="600" src="cid:resources/res159/ADKXr.add_section_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> 
+
+</li>
+<li>Нажмите <b>Сохранить</b>. Вы окажетесь во вновь созданном разделе.
+<br /><br />
+<img src="cid:resources/res159/bs3SX.section_panel.png" width="598" height="324" border="0">
+<br /><br />
+Добавим книги в этот раздел.
+</li>
+<li>Нажмите <b>Добавить книгу</b>.
+<br /><br />
+<a href="javascript:ShowImg('cid:resources/res159/new_book.png',789,526,'Добавление новой книги')"><img height="400" border="0" width="600" src="cid:resources/res159/CAHWW.new_book_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> 
+<br /><br />
+Введите параметры книги: название, свойства, анонс, подробное описание и нажмите <b>Сохранить</b>. Книга будет добавлена. 
+<br /><br />
+<img src="cid:resources/res159/FKVX6.new_book_public.png" width="526" height="492" border="0">
+
+</li>
+</ul>
+<div class="hint"><b>Примечание:</b> При добавлении книг вы должны указывать уже имеющихся авторов, т.е. заполнить каталог <b>Авторы</b> необходимо перед заполнением каталога <b>Книги</b>. </div>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

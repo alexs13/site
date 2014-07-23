@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1883</id>
+<timestamp_x>1292326028</timestamp_x>
+<date_create>1288336909</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>654</chapter_id>
+<name>Настройки форм инфоблоков</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Создание большого количества элементов информационного блока можно облегчить за счет предварительной настройки формы добавления элементов.</p>
+
+<p>Форма редактирования/добавления элемента инфоблока может быть изменена и настроена под потребности контент-менеджера сайта. Измененная форма отображается действует как при добавлении/редактировании элемента в административной части, так и при добавлении/редактировании элемента в публичной части.</p>
+
+<p>При необходимости можно переместить любые поля с любой закладки формы на любые другие закладки, сформировав удобный вид формы для каждого конкретного инфоблока.</p>
+
+<p>Например, можно заранее задать основные параметры так, чтобы добавление товара в каталог можно было произвести быстро и удобно. </p>
+
+<br>
+
+<p>Рассмотрим форму добавления элемента инфоблока.</p>
+
+<p>Так она выглядит по умолчанию:</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res132/element_add_pub_default.png',811,430,'Менеджер файлов')" ><img alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res132/4mNwz.element_add_pub_default_sm.png" border="0" height="318" width="600"  /></a></p>
+
+<p>А так выглядит уже настроенная форма для добавления нового дивана в каталог товаров:</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res132/element_add_pub_custom.png',674,610,'Менеджер файлов')" ><img alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" src="cid:resources/res132/fSQvP.element_add_pub_custom_sm.png" border="0" height="543" width="600"  /></a></p>
+
+<p>Как видите, сокращено количество закладок, удалены ненужные поля, перемещены в удобные места нужные поля формы. Работать стало проще и удобнее.</p>
+
+<div class="hint"><b>Примечание:</b> настройку может производить администратор или пользователь, наделенный соответствующими правами. Подробно про настройку форм инфоблоков смотрите в курсе <b>Администратор Старт</b>, урок <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=35&LESSON_ID=1912">Настройки форм инфоблоков</a>.</div>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

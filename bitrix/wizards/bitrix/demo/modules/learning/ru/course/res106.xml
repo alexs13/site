@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1870</id>
+<timestamp_x>1287755467</timestamp_x>
+<date_create>1287754503</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>641</chapter_id>
+<name>Добавление специальных символов</name>
+<sort>400</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[ 
+<p>Кнопка <img src="cid:resources/res106/EdTIn.specialchar.gif" border="0"  /> <b>Вставить специальный символ</b> предназначена для вставки специальных символов. При нажатии на нее появляется таблица различных специальных символов. При наведении курсора мыши на символ, его увеличенное изображение вместе с названием появляется в правом верхнем углу таблицы:</p>
+ 
+<p><img src="cid:resources/res106/iNmCA.symbol_insert.png" width="601" height="351" border="0" alt="Специальные символы"  /></p>
+ 
+<p>При единичном клике по нужному символу он появится на странице.</p>
+ 
+<p>Ниже вы можете познакомиться с видео-роликом, наглядно демонстрирующим способы добавления специальных символов. (29 секунд, 2.55 Мб.) </p>
+ <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_861100" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/6-7.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res106/MzG4n.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_861100" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/6-7.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object> 
+<br />
+ <a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/6-7.flv" >Загрузить</a> ролик. ]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

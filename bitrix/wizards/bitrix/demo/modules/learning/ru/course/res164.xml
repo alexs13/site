@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2065</id>
+<timestamp_x>1292249460</timestamp_x>
+<date_create>1291972326</date_create>
+<created_by>6104</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>731</chapter_id>
+<name>Режимы просмотра фотографий</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Из списка альбомов по клику на имя альбома или на его обложку мы переходим к просмотру эскизов фотографий:</p>
+
+<p><img src="cid:resources/res164/WgZIr.view_album.png" width="574" height="475" border="0"></p>
+
+<p>На данной странице вы имеете возможность удалить выбранные фотографии, перенести их в другой альбом. Выбор осуществляется кликом по checkbox’ам эскизов (анонсов) фотографий. При клике по анонсу фотографии открывается окно детального просмотра фотографии:</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res164/detail_photo1.png',818,646,'Фотография детально')"><img height="473" border="0" width="600" src="cid:resources/res164/Kopza.detail_photo1_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> </p>
+
+<p>Для перехода на страницу детального просмотра фотографии кликните по стрелочке в правом нижнем углу эскиза фото:</p>
+
+<p><img src="cid:resources/res164/7mzny.view_detail.png" width="323" height="165" border="0"></p>
+
+<p>Страница детального просмотра имеет вид:</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res164/detail_view.png',823,613,'Страница детального просмотра')"><img height="446" border="0" width="600" src="cid:resources/res164/DVIxS.detail_view_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;" /></a> </p>
+
+<p>Детальный показ фотографии осуществляется с помощью выбора ее анонса в ленте фотографий альбома. Возможные действия с просматриваемой фотографией:</p>
+<ul>
+   <li><b>Слайд шоу</b> - переход к просмотру слайд-шоу, начиная с данной фотографии. В слайд шоу имеется панель управления просмотром:
+<br /><br />
+<img src="cid:resources/res164/Thxph.slide_show.png" width="600" height="31" border="0">
+<br /><br />
+
+C помощью этой панели вы можете:
+<ul>
+   <li>запустить и остановить слайд шоу;</li>
+   <li>принудительно перейти к предыдущей или следующей фотографии;</li>
+   <li>задать временной интервал между слайдами;</li>
+   <li>закрыть слайд-шоу.</li>
+</ul>  
+</li>
+   <li>Просмотр оригинального изображения (ссылка <b>Оригинал</b> или клик по детальному просмотру фотографии) в отдельном окне с возможностью изменения фона;</li> 
+ <li>Редактирование параметров фотографии (ссылка <b>Изменить</b>) в специальной форме:
+<br /><br />
+<img src="cid:resources/res164/YD3ZW.edit_photo_form.png" width="600" height="400" border="0">
+</li>
+<li>Удаление фотографии (ссылка <b>Удалить</b>);</li>
+<li>Голосование. Возможность оценить фотографию кликом мыши по соответствующему количеству голосов:
+<br /><br />
+<img src="cid:resources/res164/E6B2L.voting.png" width="167" height="66" border="0">
+</li>
+
+<li>Добавление комментария. Внизу страницы отображается форма добавления комментария с возможностью форматирования текста:
+<br /><br />
+<img src="cid:resources/res164/s80YP.review_form1.png" width="575" height="405" border="0">
+
+</li>
+</ul>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

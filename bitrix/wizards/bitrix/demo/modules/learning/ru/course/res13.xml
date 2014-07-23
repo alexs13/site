@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>634</id>
+<timestamp_x>1291733216</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>630</chapter_id>
+<name>Административный раздел</name>
+<code></code>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В главе рассмотрены основные элементы интерфейса Административного раздела системы, позволяющие осуществлять полное управление содержанием и настройками сайта. (В документации иногда может использоваться выражение "Административная часть" как синоним Административного раздела.)</p>
+
+<p>Для перехода в Административный раздел служит закладка <img height="25" width="167" border="0" alt="" src="cid:resources/res13/afFhe.admin_mode_95.png" />
+ (в продукте до версии 9.5 вид закладки такой: <img height="23" width="164" src="cid:resources/res13/rxcpg.tab_admin.png" />), расположенная на <b>Панели управления</b> в публичном разделе сайта.
+</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

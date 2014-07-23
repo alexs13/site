@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2055</id>
+<timestamp_x>1291971599</timestamp_x>
+<date_create>1291906631</date_create>
+<created_by>6104</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>731</chapter_id>
+<name>Создание фотоальбома</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В фотогалерее есть возможность добавлять альбомы в общий список, а также создавать вложенные альбомы (в другой – корневой альбом), т.е. многоуровневую иерархию альбомов, если это требуется.</p>
+
+<p>Для добавления альбома в общий список служит кнопка <b>Добавить альбом</b>, расположенная на главной странице фотогалереи. </p>
+
+<p><img src="cid:resources/res162/8A8BL.add_album_but.png" width="592" height="342"></p>
+
+<p>Для создания вложенного альбома, нужно перейти к просмотру того альбома, в который должен быть вложен новый альбом и воспользоваться кнопкой <b>Добавить альбом</b>.</p>
+
+<p><img src="cid:resources/res162/t8IMa.add_included_album.png" width="588" height="347"></p>
+
+<p>Например, создадим новый альбом Барселона на первой странице фотогалереи, при этом форма создания (редактирования) альбома имеет вид:
+ 
+</p>
+
+<p><img src="cid:resources/res162/GNGtr.new_album_form.png" width="600" height="400"></p>
+
+<p>После сохранения вы будете переведены на страницу нового альбома.</p>
+<p><img src="cid:resources/res162/Re6Hr.new_album.png" width="441" height="208"></p>
+
+<p>Новый альбом сразу добавляется в общий список альбомов. Вы можете изменить его параметры или удалить.</p>
+
+<p><img src="cid:resources/res162/6OfEq.album_list.png" width="587" height="443"></p>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

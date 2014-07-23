@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1877</id>
+<timestamp_x>1290684522</timestamp_x>
+<date_create>1288268164</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>645</chapter_id>
+<name>Сниппеты</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<div class="important"><b>Сниппеты</b> - инструмент визуального редактора, позволяющий вставлять в документ заранее подготовленный и часто используемый фрагмент текста, верстки или кода.</div>
+
+<p>Сниппеты  очень удобны для тех, кто ежедневно работает с содержанием сайта в визуальном редакторе. Используя этот механизм, можно создать ряд подготовленных таблиц, сверстанных форм, которые можно перетаскивать из панели сниппетов и далее редактировать только текст или таблицу.</p>
+ 
+<p>Сниппеты редактируются, добавляются и удаляются прямо в визуальном редакторе. К ним можно делать рисунки. Доступно объединение их в многоуровневой структуре, чтобы пользователям было удобно ориентироваться в большом количестве заготовок. </p>
+ 
+<p>Физически сниппеты хранятся в папке <b>/snippets/</b> соответствующего шаблона либо в шаблоне по умолчанию (<b>.default</b>).</p>
+
+Для работы со сниппетами служит панель <b>Сниппеты</b>.
+
+<p><img src="cid:resources/res114/AdSvq.snippets_panel.png" border="0" height="652" width="697"></p>
+
+
+ 
+<h3>Создание нового сниппета</h3>
+ 
+<ul> 
+  <li>Для создания нового сниппета используйте ссылку <b>Добавить сниппет</b>, расположенная на панели задач <b>Сниппеты</b> 
+    <p><img src="cid:resources/res114/ujl82.snip_add_link.png" width="206" height="132" border="0" alt="Ссылка &quot;Добавить сниппет&quot;"  /> </p>
+   
+    <p>Откроется форма <b>Добавление сниппета</b>.</p>
+   </li>
+ 
+  <li>На закладке <b>Основные параметры</b> укажите <b>Название</b>, которое будет отображаться в визуальном редакторе, и сам <b>Код сниппета</b>. 
+    <p><img src="cid:resources/res114/ukFd6.snip_add_form1.png" width="603" height="353" border="0" alt="Закладка &quot;Основные параметры&quot;"  /></p>
+   </li>
+ 
+  <li>На закладке <b>Размещение</b> заполните поля формы. 
+    <p><img src="cid:resources/res114/1w5g1.snip_add_form2.png" width="603" height="326" border="0" alt="Закладка &quot;Размещение&quot;"  /></p>
+   
+    <ul> 
+      <li><b>Шаблон</b> &ndash; выбирается шаблон сайта, в котором создается сниппет. Это может быть шаблон по умолчанию либо текущий шаблон;</li>
+     
+      <li><b>Имя файла</b> &ndash; указывается имя файла, в котором хранится код сниппета. Можно указать собственное или оставить то имя, которое предложила система. Код сниппета будет сохранен в этом файле (<b>*.snp</b>)</li>
+     
+      <li><b>Размещение</b> &ndash; из списка выбирается папка (группа) любого уровня, в которой будет храниться сниппет.</li>
+     
+      <li>Установите опцию <b>Создать новую подгруппу</b> и введите <b>Имя новой подгруппы</b> для того, чтобы сохранить сниппет в отдельной подгруппе.</li>
+     
+      <p><img src="cid:resources/res114/DRXy8.snip_add_form2b.png" width="603" height="326" border="0" alt="Опция &quot;Создать новую подгруппу&quot;"  /></p>
+     
+      <div class="important"><b>Внимание!</b> Название в поле <b>Имя новой подгруппы</b> необходимо указывать только латинскими буквами.</div>
+     </ul>
+   </li>
+ 
+  <li>На закладке <b>Дополнительные параметры</b> укажите, по желанию, <b>Рисунок</b> и <b>Описание</b>. Может быть добавлено только одно изображение.
+    <p><img src="cid:resources/res114/zATrF.snip_add_form3.png" width="603" height="340" border="0" alt="Закладка &quot;Дополнительные параметры&quot;"  /></p>
+   </li>
+ </ul>
+ 
+<p>После сохранения новый сниппет будет сразу отображен в дереве визуального редактора в общем списке или в указанной в настройках подгруппе: </p>
+ 
+<p><img src="cid:resources/res114/1xzme.snip_created.png" height="180" width="206" border="0" alt="Созданный сниппет"  /></p>
+ 
+<p>Ниже вы можете познакомиться с видео-роликом, наглядно демонстрирующим способы применения сниппетов. (2 минуты 35 секунд, 7.28 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_927929" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-3.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res114/bSok2.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_927929" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-3.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-3.flv" >Загрузить</a> ролик.</p>
+ 
+<br />
+ 
+<h3>Редактирование сниппета</h3>
+ 
+<p>Выберете из списка сниппет, который необходимо отредактировать, и кликнете по нему мышью. После чего в панели <b>Свойства</b> будут отражены:</p>
+ 
+<ul> 
+  <li>название сниппета вместе с именем файла его кода; </li>
+ 
+  <li>кнопки управления: <b>Редактировать сниппет</b> <img src="cid:resources/res114/FM3rK.snip_edit_but.png" height="17" width="29"  /> и <b>Удалить сниппет</b> <img src="cid:resources/res114/E1gAj.snip_del_but.png" height="17" width="29"  />; </li>
+ 
+  <li>код сниппета. </li>
+ </ul>
+ 
+<p><img src="cid:resources/res114/PeKJr.snip_pic_a.png" width="590" height="212" border="0" alt="Свойства сниппета"  /></p>
+ 
+<div class="hint"><b>Примечание:</b> eсли для сниппета заданы описание и рисунок, то они также будут отражены в панели <b>Свойства</b>: 
+  <p><img src="cid:resources/res114/qyvgv.snip_pic_b.png" width="590" height="212" border="0" alt="Дополнительные параметры сниппета"  /></p>
+ </div>
+ 
+<p>Для перехода к редактированию служит кнопка <img src="cid:resources/res114/Ej5p1.snip_edit_but.png" height="17" width="29"  />. Форма <b>Редактирование сниппета</b>, по сути, является формой добавления сниппета, за исключением того, что отредактировать размещение сниппета невозможно.</p>
+ 
+<p><img src="cid:resources/res114/Z0cXI.snip_edit.png" width="598" height="226" border="0" alt="Форма редактирования сниппета"  /></p>
+ 
+<p>Для удаления нужно выбрать в списке необходимый сниппет, кликнуть по нему и воспользоваться кнопкой <img src="cid:resources/res114/dxUo5.snip_del_but.png" height="17" width="29"  />, которая отображается в панели <b>Свойства</b>. Вся информация о сниппете будет удалена. 
+  <br />
+ </p>
+ 
+<div class="hint"><b>Примечание</b>: если из подгруппы был удален последний сниппет, то она не удаляется и в визуальном редакторе не отображается. Однако подгруппа будет входить в список размещений формы <b>Добавление сниппета</b>.</div>
+ 
+<p>Ниже вы можете познакомиться с видео-роликом, наглядно демонстрирующим способы применения сниппетов. (2 минуты 37 секунд, 12.93 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_269665" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-4.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res114/Qjujh.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_269665" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-4.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/10-4.flv" >Загрузить</a> ролик.</p>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1920</id>
+<timestamp_x>1289569211</timestamp_x>
+<date_create>1289569211</date_create>
+<created_by>18113</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>672</chapter_id>
+<name>Старый интерфейс (до версии 9.5)</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Для любого компонента при переходе в режим разработки и настройки сайта (закладка <b>Разработка</b>) отображается специальная кнопка для его управления:</p>
+
+<p><img src="cid:resources/res150/1gNrL.simple.png" width="517" height="306" border="0" /></p>
+
+
+
+<div class="hint"><b>Примечание</b>: Для комплексного компонента отображается несколько кнопок. Это связано с принципом построения комплексного компонента. Самая верхняя кнопка служит для управления комплексным компонентом целиком. Для управления отдельным его подкомпонентом отображаются дополнительные кнопки. 
+<p><img src="cid:resources/res150/wYoxk.composite.png" width="441" height="271" border="0" /></p>
+ </div>
+ 
+<br>
+<p>Нажатие на кнопку управления компонента вызывает меню, содержащее основные команды:</p>
+
+<p><img height="172" src="cid:resources/res150/iW1KO.comp_edit.png" width="330" /></p>
+
+<br>
+<p>Рассмотрим команды компонента, служащие для его управления: </p>
+
+<p><img height="15" src="cid:resources/res150/lSv0i.but_edit_params.png" width="15" /> &ndash; редактирование параметров данного компонента. Команда отображается всегда для любого компонента, за исключением подкомпонентов в составе комплексного. По нажатии отображается форма настройки параметров, где можно изменить настройки компонента без перехода к режиму редактирования страницы.</p> 
+
+
+<p><img height="15" src="cid:resources/res150/atoBP.but_copy_templ.png" width="16" /> – копирование шаблона компонента. Команда отображается всегда. По нажатии появляется диалоговое окно, где указывается имя шаблона компонента, и в какой шаблон сайта осуществить копирование. 
+</p>
+
+<p><img height="15" src="cid:resources/res150/hy95s.but_edit_page_templ.png" width="15" /> – редактирование текущей страницы шаблона. Команда отображается, если применен пользовательский шаблон. По нажатии происходит переход к редактированию шаблона.</p>
+
+<p><img height="15" src="cid:resources/res150/lGST7.but_edit_css.png" width="17" /> – редактирование CSS-файла шаблона. Команда отображается, если применен пользовательский шаблон.</p> 
+
+<p><img height="16" src="cid:resources/res150/JYcLw.but_cache.png" width="15" /> – очистка кеша компонента.</p>
+
+<br>
+<p>Набор команд по управлению компонентом зависит от его типа. Например, кроме управления компонентом меню, можно провести настройку пунктов меню: </p>
+
+<p><img height="15" src="cid:resources/res150/V45MZ.but_menu_edit.png" width="15" /> – редактировать пункты меню. </p>
+<p><img height="15" src="cid:resources/res150/DTnb1.but_menu_edit.png" width="15" /> – создать меню в текущем разделе. </p>
+
+<br>
+<p>Если компонент выводит информацию из некоторого инфоблока, то дополнительно в меню такого компонента могут отображаться следующие команды:</p>
+
+<p><img height="15" src="cid:resources/res150/YRKA7.but_add_element.png" width="16" /> – добавить элемент, например, новость, статью, ссылку, товар и т.д.</p>  
+<p><img src="cid:resources/res150/0HLhp.but_add_section.png" /> – добавить раздел.</p>
+
+<br>  
+<p>Практически на всех сайтах размещена реклама и используются веб-формы. Поэтому для удобства управления этими составляющими сайтов для компонентов добавлены следующие команды:</p>
+<ul>
+<li>для рекламных баннеров:
+
+<p><img height="15" src="cid:resources/res150/ROlcq.but_edit_banner.png" width="16" /> – редактировать данный баннер.</p>  
+<p><img height="15" src="cid:resources/res150/NRJpv.but_list_banner.png" width="17" /> – отфильтрованный список баннеров.</p></li>
+
+<li>для веб-форм:
+<p><img height="15" src="cid:resources/res150/UcXVU.but_edit_webform.png" width="17" /> – редактировать шаблон веб-формы.</p> 
+<p><img height="15" src="cid:resources/res150/LwDxa.but_edit_params_web.png" width="17" /> – редактировать параметры веб-формы.</p></li>
+</ul>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

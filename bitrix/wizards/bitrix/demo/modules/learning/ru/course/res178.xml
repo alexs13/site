@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2069</id>
+<timestamp_x>1291976132</timestamp_x>
+<date_create>1291975642</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>676</chapter_id>
+<name>Создание раздела Wiki</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[ 
+<p>Размещение Wiki на проекте осуществляется типовым для &quot;1С-Битрикс: Управление сайтом&quot; способом: добавлением комплексного компонента <b>Wiki</b> (<b>bitrix:wiki</b>) на страницу сайта. Параметры настроек полей компонента смотрите в разделе <a href="http://dev.1c-bitrix.ru/user_help/content/wiki/index.php" target="_blank" >Wiki</a> документации к продукту.</p>
+ 
+<div class="hint"><b>Примечание</b>: Перед размещением компонента предварительно должен быть создан тип информационного блока и информационный блок для Wiki. Это делает администратор сайта.</div>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

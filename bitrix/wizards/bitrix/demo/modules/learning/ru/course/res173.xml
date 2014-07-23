@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2148</id>
+<timestamp_x>1295968856</timestamp_x>
+<date_create>1295968278</date_create>
+<created_by>81301</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>779</chapter_id>
+<name>Общее определение Универсальных списков</name>
+<sort>500</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<div class="important"><b>Универсальные списки</b> Модуль предназначенный для управения структурированой в виде списков однотипной информации.
+</div>
+<p>С его помощью можно создавать списки частых вопросов, справочники, базы знаний, списки контрагентов, структурированные архивы, библиотеки, файловые хранилища и т.п. 
+</p>
+<p>
+Все действия, в том числе и настройка, выполняются из публичной части. В административном разделе производится только настройка доступа к спискам для определенных групп пользователей. 
+</p>
+
+<p>
+Кроме того, для информационный блоков, используемых в списках, должны быть включены бизнес процессы. Работа Универсальных списков основана на модуле Информационные блоки, а весь интерфейс универсальных списков организуется с помощью визуальных компонентов. </p>
+
+<p><img src="/upload/help_png/universal_lists_component.png" border="0" width="769" height="514"  /></p>
+
+<p>Модуль включает в себя следующие <b>компоненты 2.0</b>: </p>
+
+<ul>
+<li>
+<b>Универсальные списки (bitrix:lists)
+</b><br>
+<img src="/upload/help_png/universal_lists_component_un_lists.lists.png" border="0" width="197" height="25"  /> 
+<br>
+Позволяет вести полнофункциональную работу с универсальными списками, создавая физически только одну страницу.
+</li>
+
+<li>
+<b>Списки (bitrix:lists.lists)</b> 
+<br>
+<img src="/upload/help_png/universal_lists_component_un_lists.lists.lists.png
+" border="0" width="232" height="25"  /> 
+<br>
+Выводит таблицу универсальных списков, доступных для просмотра и изменения.
+</li>
+
+<li>
+<b>Список (bitrix:lists.list)</b>
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.list.list.png" border="0" width="232" height="25"  /> 
+<br>Выводит разделы и элементы универсального списка с возможностью навигации и редактирования. 
+</li>
+
+<li>
+<b>Разделы списка (bitrix:lists.sections)</b>
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.list.png" border="0" width="232" height="25" /> 
+<br>Позволяет удалить и изменить разделы универсального списка.
+</li>
+
+<li>
+<b>Редактирование элемента (bitrix:lists.element.edit)</b> 
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.element.edit.png"border="0" width="232" height="25" /> 
+<br>Выводит форму редактирования элемента списка.
+</li>
+
+<li>
+<b>Настройки списка (bitrix:lists.list.edit)</b> 
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.list.edit.png" border="0" width="177" height="25" />
+<br>Показывает форму настроек универсального списка.
+</li>
+
+<li>
+<b>Поля списка (bitrix:lists.fields)</b>
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.fields.png" border="0" width="232" height="25" />
+<br>Показывает поля универсального списка и позволяет их редактировать.
+</li>
+
+<li>
+<b>Настройки поля списка (bitrix:lists.field.edit)</b> 
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_lists.fields_edit.png" border="0" width="232" height="25" /> 
+<br>Показывает форму настройки поля универсального списка.
+</li>
+
+<li>
+<b>Навигационная цепочка (bitrix:breadcrumb)</b> 
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_navigate.png" border="0" width="232" height="25" /> 
+<br>Добавляет к выводу обычного компонента Навигационная цепочка (bitrix:breadcrumb) элемент списка.
+</li>
+
+<li>
+<b>Меню списков (bitrix:lists.menu)</b> 
+<br><img src="/upload/help_png/universal_lists_component_un_bitrix_menu.png" border="0" width="232" height="25" /> 
+<br>Добавляет в меню социальной сети универсальные списки.
+</li>
+</ul>
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

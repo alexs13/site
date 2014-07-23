@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>639</id>
+<timestamp_x>1288794024</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>631</chapter_id>
+<name>Описание интерфейса</name>
+<code></code>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В данной главе  дается общее описание внешнего вида визуального редактора, а также рассматриваются основные принципы работы с его интерфейсом.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

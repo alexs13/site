@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>645</id>
+<timestamp_x>1289466854</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>631</chapter_id>
+<name>Панель задач</name>
+<code></code>
+<sort>700</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>При редактировании страниц сайта панель задач по умолчанию состоит из двух закладок: <strong>Компоненты</strong> и <strong>Сниппеты</strong>.</p>
+
+<p>При редактировании элементов информационных блоков, уроков обучающих&nbsp; курсов и т.д. панель задач содержит только <strong>Сниппеты</strong>. </p>
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

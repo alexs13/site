@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1872</id>
+<timestamp_x>1288083776</timestamp_x>
+<date_create>1288006249</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>642</chapter_id>
+<name>Загрузка и размещение flash ролика</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Кроме загрузки и размещения изображений, HTML-редактор позволяет разместить на странице flash-ролики. Процесс загрузки&nbsp;и размещения ролика&nbsp;аналогичен процессу загрузки/размещения изображения:</p>
+ 
+<ul> 
+  <li>Для размещения ролика служит кнопка <img src="cid:resources/res111/jzx0v.flash_but.png" height="22" width="22"  /> <b>Вставить Flash</b>, при нажатии на которую открывается форма: 
+    <p><img src="cid:resources/res111/0Kr7q.flash_add.png" width="597" height="444" alt="Форма загрузки ролика"  /></p>
+   
+    <p>На закладке <b>Основные параметры</b> указывается путь к выбранному файлу, а внешний вид ролика представлен в окне предпросмотра. Кроме того, при помощи полей <strong>Ширина</strong> и <strong>Высота</strong>,&nbsp;вы можете указать ширину и высоту окна данного ролика.</p>
+   </li>
+ 
+  <li>Перейдите к форме загрузки ролика, нажав на кнопку <img src="cid:resources/res111/WQRPs.load_button_s.png" height="24" width="23"  />. Появляется окно менеджера файлов: 
+    <p><a href="javascript:ShowImg('cid:resources/res111/fileman_flash_add.png',750,476,'Менеджер файлов')" ><img src="cid:resources/res111/8sZBd.fileman_flash_add_sm.png" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" border="0" height="381" width="600"  /></a></p>
+   </li>
+ 
+  <li>С помощью данного окна выберите файл, находящийся на сервере, либо загрузите с локального компьютера, после чего информация о выбранном ролике будет отображена в форме <strong>Вставка Flash</strong>: 
+    <p><img src="cid:resources/res111/EBa6K.flash_add_tab1.png" width="597" height="444" alt="Размещение ролика"  /></p>
+   </li>
+ 
+  <li> 
+    <p>На закладке <b>Дополнительные параметры</b> задайте ряд дополнительных свойств ролика. Например: название ролика, качество показа, вид окна.</p>
+   
+    <p><img src="cid:resources/res111/aRPbq.flash_add_tab2.png" width="597" height="444" alt="Дополнительные параметры"  /></p>
+   </li>
+ 
+  <p>На закладке <b>HTML код</b> можно самостоятельно ввести код вызова ролика. </p>
+ 
+  <p><img src="cid:resources/res111/Ji528.flash_add_tab3.png" width="597" height="444" alt="HTML код"  /></p>
+ </ul>
+ 
+<p> Ниже вы можете познакомиться с видеоматериалом, наглядно показывающим процесс размещения ролика на веб-странице. (1 минута 36 секунд, 5.32 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_759460" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/7-4.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res111/mOy51.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_759460" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/7-4.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/7-4.flv" >Загрузить</a> ролик.</p>
+ 			 			]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

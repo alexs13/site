@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>641</id>
+<timestamp_x>1288795190</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>631</chapter_id>
+<name>Работа с текстом</name>
+<code></code>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[Визуальный редактор обладает широкими возможностями для редактирования текста. В данной главе будут рассмотрены основные операции по работе с текстом такие, как:
+<ul>
+  <li>форматирование текста веб-страниц, используя набор основных инструментов текстового редактора MS Word;</li>
+  <li>вставка текста напрямую из редактора MS Word с автоматической очисткой кода;</li>
+<li>проверка орфографии и грамматики текстов сайта в визуальном редакторе.</li>
+  </ul>
+
+<p>Также будет рассмотрено создание таблиц и ссылок.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

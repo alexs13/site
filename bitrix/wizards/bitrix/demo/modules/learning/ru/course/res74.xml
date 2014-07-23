@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1860</id>
+<timestamp_x>1289316731</timestamp_x>
+<date_create>1287668741</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>648</chapter_id>
+<name>Примеры использования медиабиблиотеки</name>
+<sort>700</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<h3>Работа с медиабиблиотекой при редактировании страницы сайта</h3>
+<p><b>Добавление изображения</b>:
+<ul>
+	<li>По нажатию кнопки <b>Изменить</b> перейдите к редактированию страницы в визуальном редакторе.</li>
+	<li>Нажмите кнопку  <b>Изображение</b>, расположенную на контекстной панели редактора, чтобы добавить изображение на страницу сайта:</li>
+	<p><a href="javascript:ShowImg('cid:resources/res74/edit_page_form.png',646,438,'Размещение изображения на странице сайта')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res74/eG6Of.edit_page_form_sm.png" width="600" border="0" height="406"></a></p>
+	<p>Откроется форма <b>Новый рисунок</b>.</p>
+	<li>В поле <b>Путь к изображению</b> укажите <b>Выбрать из медиабиблиотеки</b>:</li>
+	<p><a href="javascript:ShowImg('cid:resources/res74/add_image_form.png',645,325,'Выбор источника изображений')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res74/uKtIV.add_image_form_sm.png" width="600" border="0" height="302"></a></p>
+	<li>В открывшейся форме выберите подходящее изображение:</li>
+<p><img height="432" border="0" width="602" src="cid:resources/res74/XIBbI.medialib_form.png" /></p>
+
+	<p><div class="hint"><b>Примечание:</b> при необходимости вы можете прямо из этой формы загрузить в медиабиблиотеку новые изображения.</div></p>
+	<li>Заполните остальные поля формы:</li>
+<p><img height="325" border="0" width="442" src="cid:resources/res74/Z01xw.medialib_add_new_elem_result.png" /></p>
+
+	<li>Нажмите кнопку <b>Сохранить</b>.</li>
+</ul>
+<p>После сохранения изменений, произведенных в визуальном редакторе, фото отобразится на странице сайта.</p>
+<p><b>Размещение на странице компонента для проигрывания медиафайлов</b>:
+<ul>
+	<li>По кнопке <b>Изменить</b> перейдите к редактированию страницы сайта в визуальном редакторе.</li>
+	<li>Добавьте на страницу компонент <b>Медиа проигрыватель (bitrix:player)</b> (<span class="path">Контент &gt; Медиа &gt; Медиа проигрыватель</span>):</li>
+	<p><a href="javascript:ShowImg('cid:resources/res74/mediaplayer_props.png',782,550,'Размещение компонента на странице')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res74/XXvWS.mediaplayer_props_sm.png" width="600" border="0" height="421"></a></p>
+	<li>В <b>Параметрах компонента</b> в поле <b>Путь к файлу</b> укажите расположение файла.</li>
+
+<p><img height="393" border="0" width="578" src="cid:resources/res74/YcG76.component_params.png" /></p>
+	
+	<li>С помощью кнопки <b>[…]</b> выберите нужный файл из <b>Медиабиблиотеки</b>:</li>
+
+<p><img height="452" border="0" width="602" src="cid:resources/res74/jF8Pf.medialib_choose_elem.png" /></p>
+
+	<li>Сохраните результаты редактирования страницы.</li>
+</ul>
+
+<h3>Использование медиабиблиотеки при работе с информационными блоками</h3>
+<p>В качестве примера рассмотрим добавление элементов каталога:</p>
+<ul>
+	<li>Добавьте новый элемент в  <b>Каталог книг</b> (<span class="path">Контент &gt; Каталог книг &gt; Книги</span>).</li>
+	<li>В открывшейся форме создания элемента перейдите на вкладку <b>Анонс</b> или <b>Подробно</b>:</li>
+	<p><a href="javascript:ShowImg('cid:resources/res74/add_anons_tab.png',650,377,'Редактирование элемента инфоблока')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res74/cY2y3.add_anons_tab_sm.png" width="600" border="0" height="348"></a></p>
+	<li>В форме <b>Картинка для анонса</b> перейдите на вкладку <b>Медиабиблиотека</b>:</li>
+	<p><a href="javascript:ShowImg('cid:resources/res74/add_anons_image.png',650,377,'Выбор медиабиблиотеки в качестве источника для загрузки изображения')"><img st yle="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res74/hx50G.add_anons_image_sm.png" width="600" border="0" height="348"></a></p>
+	<li>С помощью кнопки <b>[...]</b> откройте форму <b>Медиабиблиотека</b> и выберите нужное изображение:</li>
+
+<p><img height="452" border="0" width="602" src="cid:resources/res74/ywNYL.medialib_form_anons.png" /></p>
+
+	<p>В поле <b>Выберите файл</b> автоматически прописывается адрес выбранного файла:</p>
+
+<p><img height="279" border="0" width="391" src="cid:resources/res74/xv9cV.anons_result.png" /></p>
+
+</ul>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

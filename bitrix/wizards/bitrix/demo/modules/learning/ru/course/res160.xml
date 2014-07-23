@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>658</id>
+<timestamp_x>1291902807</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>655</chapter_id>
+<name>Работа с фотогалереями</name>
+<code></code>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В данном разделе рассмотрим работу с модулем <b>Фотогалерея 2.0</b>. Модуль позволяет работать с фотографиями в удобном режиме: 
+<ul>
+<li>сортировать фото по альбомам (с возможностью создания вложенных альбомов);</li>
+<li>загружать в них фото;</li>
+<li>делать подписи к фотографиям;</li>
+<li>при просмотре оставлять отзывы и голосовать за понравившиеся фото;</li>
+<li>вести обсуждение и т.д.</li></ul></p>
+<p> В многопользовательской фотогалереи можно отображать все фотографии и альбомы пользователей на одной странице.
+  </p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

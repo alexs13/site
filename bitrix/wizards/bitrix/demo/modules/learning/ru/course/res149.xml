@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1919</id>
+<timestamp_x>1290687178</timestamp_x>
+<date_create>1289569180</date_create>
+<created_by>18113</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>672</chapter_id>
+<name>Интерфейс &quot;Эрмитаж&quot;  (версии 9.5 и старше)</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Настройки любого компонента осуществляются при переходе в <b>режим правки сайта</b> (нажатие кнопки <img src="cid:resources/res149/JzIJv.but_edit_mode.png" width="41" height="13" border="0"/> на Административной панели).</p>
+<p>При наведении на содержимое компонента появляется красная граница области компонента и специальная кнопка <img src="cid:resources/res149/jwdR2.but_edit_comp.png" width="36" height="20" border="0"/> для управления его параметрами.</p>
+
+<p><img src="cid:resources/res149/M2CwP.comp_options.png" width="561" height="337" border="0"/></p>
+
+<br>
+<p>Нажатие на кнопку управления компонента вызывает меню, содержащее основные команды:</p>
+
+<p><img height="288" src="cid:resources/res149/oNpKm.menu_edit_comp.png" width="574" /></p>
+
+<div class="hint"><b>Примечание</b>: При нажатии на кнопку управления комплексным компонентом будет отображаться меню со всеми простыми компонентами, входящими в состав этого комплексного компонента. С помощью меню можно настроить отдельно параметры простых компонентов.</div>
+
+<br>
+<p>Рассмотрим команды компонента, служащие для его управления: </p>
+
+<p><img height="15" src="cid:resources/res149/p6xD9.but_edit_params_1.png" width="17" /> &ndash; редактирование параметров данного компонента. Команда отображается всегда для любого компонента. По нажатии отображается форма настройки параметров, где можно изменить настройки компонента без перехода к режиму редактирования страницы.</p> 
+  
+<p><img height="15" src="cid:resources/res149/QQMuy.but_edit_params.png" width="15" /> &ndash; меню действий компонента. Меню отображается всегда для любого компонента. При выборе отображается набор действий, доступных для компонента без перехода к режиму редактирования страницы.</p> 
+  <p>В состав меню действий компонента входят:</p>
+  
+  <ul>
+    <li><img height="15" src="cid:resources/res149/ZJzrr.but_copy_templ.png" width="16" /> – копирование шаблона компонента. По нажатии появляется диалоговое окно, где указывается имя шаблона компонента, и в какой шаблон сайта осуществить копирование.</li>
+    <li><img height="15" src="cid:resources/res149/jm1o2.but_edit_page_templ.png" width="15" /> – редактирование текущей страницы шаблона. Команда отображается, если применен пользовательский шаблон. По нажатии происходит переход к редактированию шаблона.</li>
+    <li><img height="15" src="cid:resources/res149/wI05i.but_edit_css.png" width="17" /> – редактирование CSS-файла шаблона. Команда  отображается, если применен пользовательский шаблон. </li>
+    <li><img height="16" src="cid:resources/res149/8P7jz.but_cache.png" width="15" /> – очистка кеша компонента.</li>  
+    <li><b>Отключить компонент</b> – временное отключение компонента с сохранением настроек.</li>
+  </ul>  
+
+<br>
+<p>Набор команд по управлению компонентом зависит от его типа. Например, кроме управления компонентом меню, можно провести настройку пунктов меню сайта: </p>
+
+<p><img height="16" src="cid:resources/res149/8AFxk.but_edit_element_new.png" width="16" /> – редактировать пункты меню сайта.</p> 
+<p><img height="17" src="cid:resources/res149/0B8w0.but_add_menu.png" width="18" /> – создать меню в текущем разделе. </p>
+
+<br>
+<p>Если компонент выводит информацию из некоторого инфоблока, то рядом с кнопкой настройки компонента или при наведении мышкой на элемент инфоблока   могут отображаться следующие кнопки:</p>
+
+<p><img height="16" src="cid:resources/res149/a8Rjx.but_add_element_new.png" width="16" /> – добавить элемент, например, новость, статью, раздел, ссылку, товар и т.д.</p>   
+<p><img height="16" src="cid:resources/res149/KBhaE.but_edit_element_new.png" width="16" /> – изменить элемент, например, новость, статью, раздел, ссылку, товар и т.д. </p>   
+<p><img height="16" src="cid:resources/res149/ZpNFY.but_del_element_new.png" width="16" /> – удалить элемент, например, новость, статью, ссылку, раздел, товар и т.д.</p>   
+  
+<br>
+<p>Для удобства управления рекламой сайтов для компонентов добавлены следующие команды:</p>
+
+<p><img height="16" src="cid:resources/res149/uQy48.but_edit_element_new.png" width="16" /> – редактировать данный баннер.</p>  
+<p><img height="15" src="cid:resources/res149/EANwA.but_list_banner.png" width="17" /> – отфильтрованный список баннеров.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

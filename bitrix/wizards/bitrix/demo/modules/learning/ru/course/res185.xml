@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2089</id>
+<timestamp_x>1296034191</timestamp_x>
+<date_create>1292919974</date_create>
+<created_by>21419</created_by>
+<active>N</active>
+<course_id>34</course_id>
+<chapter_id>780</chapter_id>
+<name>Включаемые области</name>
+<sort>500</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[
+<h4>Включаемая область</h4>
+ 
+<ul> 
+  <li><b>При создании включаемой области используют шаблон &quot;Стандартная страница&quot; из-за этого на сайте происходит двойное подключение футера и хедера</b></li>
+ 
+  <li><b></b> 
+    <br />
+   </li>
+ 
+  <li><b></b> 
+    <br />
+   </li>
+ </ul>
+ 
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

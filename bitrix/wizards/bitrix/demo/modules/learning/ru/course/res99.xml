@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>640</id>
+<timestamp_x>1290597149</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>631</chapter_id>
+<name>Режимы работы</name>
+<code></code>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[Новая версия визуального HTML-редактора разработана на JavaScript.
+
+Работает с браузерами:
+<ul>
+<li><b>Internet Explorer</b> версии 7 и выше;</li>
+<li><b>Firefox</b> версии 3.x и выше;</li>
+<li><b>Opera</b> версии 10.x и выше;</li>
+<li><b>Safari</b> версии 5 и выше;</li>
+<li><b>Google Chrome</b> версии 7 и выше.</li>
+</ul>
+
+
+<p>Используя редактор, можно формировать и изменять содержание статических и динамических страниц, уроков обучающих курсов, элементов информационных блоков и прочее.</p>
+
+<p>Визуальный HTML редактор может быть вызван как из публичной части сайта, так и из административного раздела, и он служит следующим целям:</p>
+<ol>
+  <li>Для редактирования страниц;</li>
+  <li>Для редактирования текстовых описаний внутри формы, например, для редактирования элементов информационных блоков;</li>
+  <li>Для редактирования шаблона сайта.</li></ol>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

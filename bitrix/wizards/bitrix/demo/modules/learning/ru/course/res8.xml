@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1833</id>
+<timestamp_x>1287572658</timestamp_x>
+<date_create>1287567560</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>637</chapter_id>
+<name>Отмена действий</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Система допускает отмену последнего совершенного действия.</p>
+
+<p>После каждого изменения внесенного в содержание сайта под <b>Панелью управления</b> будет отображаться <b>Строка отмены действия</b>.</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res8/busket_undo_95.png',957,201,'Строка отмены действий')"><img height="126" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res8/76Br2.busket_undo_95_sm.png" /></a> </p>
+
+<p>В этой строке выводится описание совершенного пользователем действия и команда на отмену действия. Кликнув по ссылке, можно отменить последнее совершенное действие.</p>
+
+<p>Закрыть строку отмены действия можно, щелкнув по крестику у правого края строки.</p>
+
+<div class="hint"><b>Примечание:</b> Описанная на этой странице функция - первый шаг в реализации функционала <b>Корзины</b>, которая появится в полном объеме ближайшее время.
+ </div>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

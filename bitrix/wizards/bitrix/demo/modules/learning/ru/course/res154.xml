@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>667</id>
+<timestamp_x>1290608403</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>632</chapter_id>
+<name>Примеры работы с компонентами</name>
+<code></code>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<b><p>Простые компоненты</p></b>
+<p>В качестве примера рассмотрим создание новостного раздела с помощью простых компонентов.</p> 
+
+<p>Для этого необходимо создать, например, страницу списка новостей <b>index.php</b>, на которой разместим компонент <img width="34" height="18" src="cid:resources/res154/Y00Rr.news_list.png" /> <b>Список новостей (bitrix:news.list)</b>. Этот компонент выводит на странице, где он размещен, заголовок, текст анонса и прочие параметры новостей в зависимости от настроек компонента. Каждый элемент списка новостей - ссылка на просмотр детальной информации.</p> 
+<p><img width="693" height="500" border="0" src="cid:resources/res154/uPXvm.bitrix_news_list.png" /></p>
+<br>
+
+<p>Страница с детальной информацией должна быть создана отдельно, например, <b>detail.php</b>, на которой разместиться компонент <img width="34" height="18" src="cid:resources/res154/t5udt.news_detail.png" /> <b>Новость детально (bitrix:news.detail)</b>.</p>
+ 
+ 
+<p><img width="693" height="500" border="0" src="cid:resources/res154/zl9FG.bitrix_news_detail.png"  /></p>
+
+<br> 
+<p>При этом у компонента <b>Список новостей</b> нужно настроить входные параметры так, чтобы он мог формировать ссылки на страницу детальной новости (с кодом новости). Для этого нужно задать путь к этой странице, а также название параметра, в котором будет передаваться код новости для показа:</p>
+ 
+<p><img width="410" height="50" src="cid:resources/res154/Sf53M.path_news_list.png" /></p>
+ 
+<p>В данном случае страница <b>detail.php</b> должна находиться в той же директории, что и страница со списком новостей.</p>
+ 
+<p>Для компонента детальной новости нужно настроить входные параметры так, чтобы он мог формировать ссылку на главную страницу:</p>
+ 
+<p><img width="409" height="50" src="cid:resources/res154/DHLaK.path_news_detail.png" /></p>
+ 
+<p>Кроме того, во входных параметрах компонента детальной новости нужно задать php-код, возвращающий ID новости:</p> 
+
+<p><img width="237" height="22" src="cid:resources/res154/b5c7v.params_id_news.png" /></p>
+ 
+<p>Настроив параметры компонентов должным образом, в публичной части имеем результат:</p>
+ 
+<p> 
+  <table> 
+    <tbody> 
+      <tr><td>Страница со списком новостей</td><td>Страница детального просмотра новости</td></tr>
+      <tr><td><img width="406" height="200" border="0" src="cid:resources/res154/IOJar.complex1.png" />  </td>
+        <td><img width="406" height="200" border="0" src="cid:resources/res154/UlMxn.complex2.png"  /></td></tr>
+     </tbody>
+   </table>
+ </p>
+
+<br><br>
+
+<b><p>Комплексные компоненты</p> </b>
+<p>Тот же самый новостной раздел можно сделать и с помощью комплексного компонента <img width="32" height="16" src="cid:resources/res154/0JLCf.news.png" /> <b>Новости (bitrix:news)</b>. Этот компонент нужно просто установить на страницу (например, <b>index.php)</b> и настроить набор его параметров.</p>
+ 
+<p>Настроив параметры компонента должным образом, в публичной части имеем тот же результат:</p>
+ 
+<p> 
+  <table> 
+    <tbody>
+      <tr><td>Страница со списком новостей</td><td>Страница детального просмотра новости</td></tr> 
+      <tr><td><img width="406" height="200" border="0" src="cid:resources/res154/MTfF3.complex1.png" />  </td>
+        <td><img width="406" height="200" border="0" src="cid:resources/res154/es7HJ.complex2.png"  /></td></tr>
+     </tbody>
+   </table>
+ </p> 
+ 
+<p>Таким образом, для создания новостного раздела физически создается одна страница, а логически несколько.</p> 
+ 
+ ]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1834</id>
+<timestamp_x>1297083702</timestamp_x>
+<date_create>1287569781</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>639</chapter_id>
+<name>Настройка внешнего вида редактора</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Работая с визуальным редактором, вы можете настроить его внешний вид, который будет автоматически запомнен:</p> 
+<ul>
+<li>определить отображаемые панели;</li>
+<li>отключить ненужные в данный момент панели задач или панели инструментов.</li> 
+</ul>
+<p>Для этого служит кнопка <img src="cid:resources/res98/1WhNN.settings_button.png" height="22" width="22"  /> <b>Настройки</b> панели инструментов. По нажатии на эту кнопку появляется диалоговое окно <b>Настройки визуального редактора</b>: 
+</p>
+ 
+<p><img src="cid:resources/res98/ZRN8Q.visual_editor_settings_tab1.png" border="0" height="390" width="620"  /></p>
+ 
+<p>Форма настроек состоит из трех закладок:</p>
+ 
+<ul> 
+  <li><b>Панели инструментов</b> - служит для настройки показа панели инструментов. Есть возможность отключить ненужные в данный момент панели (снимая флаги рядом с названием панелей). Панель <b>Стандартные</b> отключить невозможно. 
+    <br />
+   При запуске визуального редактора из публичной части закадка <strong>Панели инструментов</strong> не будет выведена. Т.е. регулировать набор панелек будет невозможно. 
+    <br />
+   </li>
+ 
+  <li><b>Панели задач</b> 
+    <br />
+   
+    <br />
+   <img src="cid:resources/res98/spqGg.visual_editor_settings_tab2.png" border="0" height="390" width="620"  /> 
+    <br />
+   
+    <br />
+   Работая с опциями данной закладки, можно отключить отображение ненужных на данный момент панелей задач. 
+    <br />
+   </li>
+ 
+  <li><b>Дополнительные настройки</b> 
+    <br />
+   
+    <br />
+   <img src="cid:resources/res98/7jNjA.visual_editor_settings_tab3.png" border="0" height="390" width="620"  /> 
+    <br />
+   
+    <br />
+   Опция <b>Показывать подсказки к параметрам компонентов</b> управляет отображением всплывающих подсказок к настройкам компонентов при их изменении в панели <b>Свойства</b>. 
+    <br />
+   
+    <br />
+   <img src="cid:resources/res98/Dci7K.tooltip.png" border="0" height="195" width="580"  /> 
+    <br />
+   
+    <br />
+   Опция <b>Использовать визуальные эффекты</b> на данный момент определяет наличие тени при открытии/сворачивании панелей задач. В дальнейшем функционал опции будет расширяться. 
+    <br />
+   </li>
+ </ul>
+ 
+<p>Кнопка <b>Восстановить по умолчанию</b> позволяет восстановить отображение всех панелей визуального редактора в исходном виде.</p>
+ 
+<div class="hint"><b>Обратите внимание!</b> Вы можете значительно ускорить загрузку визуального редактора, отключив не используемые панели инструментов и панели задач. Это можно выполнить в форме настройки редактора либо воспользовавшись крестиками в самом редакторе. </div>
+
+<p><div class="hint"><b>Примечание</b>: Внешний вид редактора может быть настроен и администратором. Если вы не видите части кнопок или панелей, то обратитесь к администратору сайта.
+<p>Администратор сайта может в случае необходимости включить и полноэкранный режим работы визуального редактора.</p></div></p>
+ 
+<p> Ниже вы можете познакомиться с видео-роликом, в котором наглядно демонстрируется процесс настройки внешнего вида редактора. (2 минуты 28 секунд, 7.09 Мб.)</p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_652930" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-3.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res98/sibWT.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_652930" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-3.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-3.flv" >Загрузить</a> ролик. </p>
+ 					]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

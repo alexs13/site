@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1882</id>
+<timestamp_x>1295016702</timestamp_x>
+<date_create>1288336868</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>654</chapter_id>
+<name>Примеры структурированной информации</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<link href="cource_style.css" type="text/css" rel="stylesheet" />
+
+<!--       шаблон         -->
+
+<p>За счет использования информационных блоков может быть реализована различная структура хранения информации. Примеры различных архитектур приведены в демонстрационной версии продукта.</p>
+
+<h3>Одноуровневая структура</h3>
+
+<p>Информационный блок не содержит разделов и подразделов. Например, инфоблок <strong>Статьи</strong> просто содержит список статей:</p>
+
+<p><a href="javascript:ShowImg('cid:resources/res131/iblocks_articles.png',783,496,'Одноуровневая структура')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res131/ZMHGd.iblocks_articles_sm.png" border="0" height="380" width="600"></a> </p>
+
+<h3>Многоуровневая структура</h3>
+
+<ul>
+  <li><b>Двухуровневая структура</b> - информационный блок содержит список элементов, распределенных по разделам. Например, инфоблок <b>Фотографии</b> содержит список фотографий, распределенный по разделам <b>Мой альбом</b> и <b>Отпуск</b>: 
+
+    
+
+    <p><img src="cid:resources/res131/RG8yA.iblocks_gallery.png" border="0" height="96" width="161"></p>
+
+  </li>
+
+  <li><b>N-уровневая структура</b> – информационный блок содержит список элементов, распределенных по разделам. Например, каталог <b>Книги</b> содержит список книг, распределенных по тематикам: 
+
+    <p><img src="cid:resources/res131/ICyMN.iblocks_book_catalog_structure.png" height="209" width="223"></p>
+  
+    <p>При этом некоторые разделы содержат вложенные разделы, более детально определяющие тематику:</p>
+  
+    <p><img src="cid:resources/res131/kI6o0.iblocks_book_catalog_structure_sections.png" border="0" height="256" width="223"></p>  </li>
+
+</ul>
+
+
+
+
+    <div class="hint"><b>Примечание:</b> количество возможных уровней иерархии не ограничено. Кроме того, элементы инфоблока могут не относиться ни к одному из созданных разделов. В этом случае они будут принадлежать к верхнему уровню иерархии:
+
+      <p><a href="javascript:ShowImg('cid:resources/res131/iblocks_upper_level.png',707,167,'Верхний уровень')"><img style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res131/lXswI.iblocks_upper_level_sm.png" border="0" height="141" width="599"></a></p>
+    </div>
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

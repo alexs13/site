@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2075</id>
+<timestamp_x>1293712330</timestamp_x>
+<date_create>1292339591</date_create>
+<created_by>6104</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>732</chapter_id>
+<name>Публикация фотогалереи</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В качестве примера в разделе <b>Контент</b> создадим страницу <b>Галереи пользователей</b> и разместим на ней компонент <b>Фотогалерея 2.0 (многопользовательская)</b>.</p>
+
+<p>Для этого выполните следующее:</p>
+
+<ul>
+  <li>Перейдите в раздел <b>Контент</b> и нажмите кнопку <img src="cid:resources/res167/UBdxh.create_page.png" width="64" height="69" border="0"  /> </li>
+
+  <li>Пройдите все шаги мастера и перейдите к редактированию страницы в визуальном редакторе; </li>
+
+  <li>На странице разместите комплексный компонент <strong>Фотогалерея 2.0 (многопользовательская)</strong> 
+    <p><a href="javascript:ShowImg('cid:resources/res167/multiuser_gallery.png',799,559,'Многопользовательская фотогалерея')" ><img height="419" border="0" width="600" src="cid:resources/res167/9Udze.multiuser_gallery_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+  </li>
+
+  <li>Для удобства настройки компонента его параметры разделены по группам: 
+    <p><img src="cid:resources/res167/BZ0ZQ.properties.png" width="594" height="259" border="0"  /></p>
+  </li>
+
+  <li>Произведите настройку некоторых групп, для примера: 
+    <ul>
+      <li>В группе <b>Дополнительно</b> установите параметры показа фотографий на главной странице и на странице загрузки, выберите <b>Цвета авторского знака</b> (например, Фиолетовый и Черный), укажите, что показывать в качестве рейтинга фото, <b>Рейтинг</b>, который рассчитывается по определенной формуле, учитывающей количество оценок и их значения, или <b>Среднее значение</b> - среднее арифметическое оценок фото. 
+        <p><a href="javascript:ShowImg('cid:resources/res167/aditional_props.png',720,277,'Дополнительно')" ><img height="230" border="0" width="600" src="cid:resources/res167/yHhnB.aditional_props_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      </li>
+    
+      <li>В группе <b>Основные параметры</b> укажите <b>Тип инфоблока</b> и сам <b>Инфоблок</b> (выбираем <b>Фотогалерея</b> и <b>Многопользовательская галерея</b> 
+        <p><a href="javascript:ShowImg('cid:resources/res167/main_params.png',684,187,'Основные параметры')" ><img height="164" border="0" width="600" src="cid:resources/res167/hFHlP.main_params_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      Здесь же вы можете переключиться в расширенный режим настройки компонента для более детальной настройки параметров. Также выберите группы пользователей, имеющие право создавать галерею, установите, нужна ли премодерация фото и нужно ли проверять права доступа пользователя к модулю <b>Социальная сеть</b>. </li>
+    
+      <li>В группе Дополнительные настройки выберите Формат вывода даты альбома и Формат вывода даты фото </li>
+    
+      <li>В группе <b>Настройки фотогалереи</b>, если необходимо, укажите или измените различные размеры фотографий, установите ограничение на размер оригинала фотографии. Укажите настройки нанесения авторского знака. 
+        <p><a href="javascript:ShowImg('cid:resources/res167/photo_params.png',711,242,'Настройки фотогалереи')" ><img height="204" border="0" width="600" src="cid:resources/res167/VnIQA.photo_params_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      </li>
+    
+      <li>В группе <b>Настройки голосования</b> установите флаг в поле <b>Разрешить голосование</b>. В дополнительных полях назначьте <b>Максимальный балл</b> и задайте <b>Подписи к баллам</b>. 
+        <p><a href="javascript:ShowImg('cid:resources/res167/vote_params.png',696,217,'Настройки голосования')" ><img height="187" border="0" width="600" src="cid:resources/res167/1Z7Ma.vote_params_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      </li>
+    
+      <li>В группе <b>Настройки тегов</b> установите флаг в поле <b>Показывать теги</b>. Если необходимо, произведите дополнительные настройки вывода тегов. 
+        <p><a href="javascript:ShowImg('cid:resources/res167/tags_params.png',721,160,'Настройки тегов')" ><img height="133" border="0" width="600" src="cid:resources/res167/W7dDh.tags_params_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      </li>
+    
+      <li>В группе <b>Настройки отзывов</b> установите флаг в поле <b>Разрешить отзывы</b> для того, чтобы пользователи могли оставлять комментарии к фотографиям. 
+        <p><a href="javascript:ShowImg('cid:resources/res167/review_params.png',715,96,'Настройки отзывов')" ><img height="80" border="0" width="600" src="cid:resources/res167/z9Er1.review_params_sm.png" alt="Нажмите на рисунок, чтобы увеличить" style="cursor: pointer;"  /></a> </p>
+      </li>
+      <li>При необходимости настройте дополнительные параметры.</li>
+    </ul>
+  </li>
+  <li>Сохраните страницу.</li>
+</ul>
+
+<p>В результате созданная страница в публичной части будет иметь вид:</p>
+ <p><img src="cid:resources/res167/IBTJR.empty_gallery1.png" width="544" height="190" border="0"  /></p>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

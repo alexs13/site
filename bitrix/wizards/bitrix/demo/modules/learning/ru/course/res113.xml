@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1875</id>
+<timestamp_x>1290684393</timestamp_x>
+<date_create>1288165376</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>645</chapter_id>
+<name>Компоненты</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<div class="important"><b>Компонент</b> - программный код, оформленный в специальную оболочку, позволяющую визуальными средствами системы вставлять и настраивать код в шаблон сайта или на его страницы.</div>
+
+<p>Компоненты являются блоками, с помощью которых строится публичная часть сайта. Они позволяют многократно использовать единожды написанный и отлаженный код в рамках одного сайта или на разных сайтах. С помощью визуальных средств среды <b>«1C-Битрикс: Управление сайтом»</b> можно размещать и настраивать компоненты без написания кода. Поставляемые с продуктом системные компоненты регулярно обновляются, при этом расширяется их функционал и исправляются возможные ошибки.</p>
+
+Для работы с компонентами служит панель <b>Компоненты</b>.
+
+<p><img src="cid:resources/res113/sakxw.components_panel.png" border="0" height="652" width="697"></p>
+
+<div class="hint"><b>Примечание:</b> панель компонентов и работа с ними подробно рассмотрена в главе  <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=665">Работа с компонентами</a> главы <b>Компоненты 2.0 (начальные сведения)</b>.</div>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

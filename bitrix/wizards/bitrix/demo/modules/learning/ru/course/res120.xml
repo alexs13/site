@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1893</id>
+<timestamp_x>1288687242</timestamp_x>
+<date_create>1288687242</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>647</chapter_id>
+<name>Загрузка медиафайлов</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Упрощенный HTML-редактор позволяет загружать видео и размещать его на странице. Процесс размещения видео довольно прост:</p>
+<ul> 	
+  <li>Выберите место для видео на странице, установив туда курсор, и нажмите кнопку <img src="cid:resources/res120/t0Ddx.but_video_new.png" height="20" width="20"> на панели инструментов. Откроется диалог <b>Параметры видео</b>:</li>
+  <p><img src="cid:resources/res120/2UTE4.light_editor_new_video.png" height="444" width="502"></p>
+  <li>В поле <b>Путь к видеофайлу</b> укажите расположение файла.</li>
+
+  <li>Укажите <b>Путь к рисунку предпросмотра</b>.</li>
+  <li>Задайте размер окна плеера, заполнив поля <b>Размеры (Ш х В)</b>.</li>
+  <li>Нажмите кнопку <b>Сохранить</b>.</li>
+</ul>
+<p>В результате добавленное видео будет отображено в упрощенном редакторе:</p>
+
+<p><img src="cid:resources/res120/a5HlX.light_editor_video.png" height="252" width="506">]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

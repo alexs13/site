@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>780</id>
+<timestamp_x>1296055618</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id></chapter_id>
+<name>Типичные ошибки при работе с системой</name>
+<code>tip_error</code>
+<sort>800</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В главе собраны описания и решения типовых ошибок, которые встречаются при работе с системой "1С-Битрикс: Управление сайтом".</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

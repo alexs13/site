@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>632</id>
+<timestamp_x>1289993953</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id></chapter_id>
+<name>Компоненты 2.0 (начальные сведения)</name>
+<code></code>
+<sort>600</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В данной главе курса контент-менеджер ознакомится с основными понятиями и приемами работы с компонентами версии 2.0. Глава помогает освоить следующие аспекты работы с компонентами:</p>
+<ul>
+<li>возможности простых и комплексных компонентов;</li>
+<li>работа с компонентами в визуальном редакторе;</li>
+<li>управление компонентами и их параметрами.</li>
+</ul>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

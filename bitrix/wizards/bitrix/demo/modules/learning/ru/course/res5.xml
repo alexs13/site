@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>637</id>
+<timestamp_x>1291732593</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>633</chapter_id>
+<name>Публичный интерфейс Эрмитаж (с версии 9.5)</name>
+<code></code>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p><b>Панель управления</b> имеет два основных режима:</p>
+
+<ul>
+<li><b>Сайт</b> - режим для работы над содержимым сайта.</li>
+<li><b>Администрирование</b>  - административный раздел для полнофункционального управления всем интернет-проектом.</li>
+</ul>
+
+<p><a href="javascript:ShowImg('cid:resources/res5/panel.png',950,107,'Панель управления')"><img height="67" border="0" width="600" style="cursor: pointer;" alt="Нажмите на рисунок, чтобы увеличить" src="cid:resources/res5/Hr9Lz.panel_sm.png" /></a> </p>
+
+<p>Режим <b>Администрирование</b> описан в главе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=634" >Административный раздел</a>.</p>
+
+
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

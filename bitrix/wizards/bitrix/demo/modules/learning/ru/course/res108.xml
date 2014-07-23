@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1873</id>
+<timestamp_x>1292316443</timestamp_x>
+<date_create>1288008895</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>641</chapter_id>
+<name>Работа с гиперссылками</name>
+<sort>600</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[ 
+<p>Для создания и изменения гиперссылок также предусмотрены отдельные кнопки панели редактирования:</p>
+ 
+<table cellspacing="0" cellpadding="0" border="0"> 
+  <tbody> 
+    <tr bgcolor="white">
+    <td bgcolor="#8C8C8C"> 
+        <table cellspacing="1" cellpadding="3" border="0"> 
+          <tbody> 
+            <tr bgcolor="silver"><td width="10%"  align="center"><b>Кнопка</b></td><td width="60%" align="center"><b>Действие</b></td></tr>
+           
+            <tr bgcolor="#ffffff"><td width="10%" align="center"><img src="cid:resources/res108/zbJIu.anchor.gif" border="0"  /></td><td width="60%" >Позволяет создать якорь (закладку) в нужном месте страницы, для создания ссылки именно на это место страницы</td></tr>
+           
+            <tr bgcolor="#EEEEEE"><td width="10%" align="center"><img src="cid:resources/res108/kjmRK.link.gif" border="0"  /></td><td width="60%" >Позволяет создать ссылку</td></tr>
+           
+            <tr bgcolor="#ffffff"><td width="10%" align="center"><img src="cid:resources/res108/J27AX.dellink.gif" border="0"  /></td><td width="60%" >Удаляет ссылку</td></tr>
+           </tbody>
+         </table>
+       </td></tr>
+   </tbody>
+ </table>
+ 
+<p>Рассмотрим предназначение этих кнопок подробнее.</p>
+ 
+<h2>Создание ссылки</h2>
+ Для создания ссылки нажмите на кнопку <img src="cid:resources/res108/ODtQ1.link.gif" border="0"  /> <b>Ссылка</b>, после чего откроется диалоговое окно создания ссылки на страницу или документ на сервере. 
+<p></p>
+ 
+<p><img src="cid:resources/res108/KJj1X.newlink.png" width="541" height="398" border="0" alt="Ссылка на документ на сервере"  /> </p>
+ В системе возможно создание четырех типов гиперссылок. 
+<p><img src="cid:resources/res108/HWrMa.link_type_list.png" width="310" height="97" border="0" alt="Типы гиперссылок"  /> </p>
+ 
+<br />
+ 
+<h4>Ссылка на документ на сервере</h4>
+ 
+<ul> 
+  <li>В выпадающем списке <b>Тип</b> выберите <b>Ссылка на документ на сервере</b>. 
+    <p><img src="cid:resources/res108/iJmDD.doc_link.png" width="541" height="366" border="0" alt="Ссылка на документ на сервере"  /> </p>
+   </li>
+ 
+  <li>Укажите или загрузите документ, на который будет ссылаться создаваемая ссылка. Для этого нажмите кнопку <img src="cid:resources/res108/9002K.load_button.png"  />, чтобы выбрать документ из <b>Структуры сайта</b> или выберите пункт меню кнопки <b>Выбрать из медиабиблиотеки</b>. 
+    <p><img src="cid:resources/res108/fvYPW.load_but_menu.png" width="258" height="89" border="0" alt="Выбрать из медиабиблиотеки"  /> </p>
+   
+    <div class="hint">Действия по выбору/загрузке документа аналогичны действиям, подробно описанным в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&amp;LESSON_ID=1871" target="_blank" title="Загрузка и размещение изображения" >Загрузка и размещение изображения</a></div>
+   
+    <br />
+   </li>
+ 
+  <li>В выпадающем списке <b>Открыть ссылку в</b> укажите окно, в котором будет открываться ссылка. 
+    <p><img src="cid:resources/res108/N2soA.window_type_list.png" border="0" height="104" width="159" alt="Окно, в котором будет открываться ссылка"  /></p>
+   
+    <p>В коде каждый из пунктов этого списка задается с помощью атрибута <b>target</b> тега <b>&lt;a&gt;</b>. Атрибут <b>target</b> может принимать соответственно следующие значения: </p>
+   
+    <ul> 
+      <li><b>_blank</b>; </li>
+      <li><b>_parent</b>; </li>
+      <li><b>_self</b>; </li>
+      <li><b>_top</b>. </li>
+     </ul>
+   </li>
+ 
+  <li>Отметьте опцию <b>Не учитывать ссылку поисковиками (nofollow, noindex)</b>, если хотите, чтобы ссылка не учитывалась поисковыми системами при индексировании страницы.</li>
+ 
+  <li>Заполните, по желанию, поле <b>Всплывающая подсказка</b>, текст которого будет появляться при наведении курсора мыши на ссылку. В коде она вводится с помощью атрибута <b>title</b> тега <b>&lt;a&gt;</b>. </li>
+ 
+  <li>Укажите один из описанных в продукте <b>Стиль</b> для написания слова или фразы, являющихся ссылками</li>
+ 
+  <li>Задайте, по желанию, атрибуты <b>ID</b> и <b>Rel</b></li>
+ </ul>
+ 
+<h4>Ссылка на другой сайт</h4>
+ 
+<ul> 
+  <li>В выпадающем списке <b>Тип</b> выберите <b>Ссылка на другой сайт</b>, после чего диалоговое окно изменит вид. 
+    <p><img src="cid:resources/res108/Co849.link_site.png" width="541" height="513" border="0" alt="Ссылка на документ на сервере"  /> </p>
+   </li>
+ 
+  <li>Укажите <b>Текст ссылки</b> и <b>Адрес ссылки</b></li>
+ 
+  <li>Выберите опцию <b>Фиксировать переход в статистике</b> и заполните открывшиеся поля для того, чтобы события перехода по ссылке регистрировались в статистике.</li>
+ 
+  <li>Задайте остальные параметры аналогично <b>Ссылке на документ на сервере</b></li>
+ </ul>
+ 
+<br />
+ 
+<p><b>Ссылка внутри данного документа</b></p>
+ 
+<p>Для создания ссылки внутри документа сначала необходимо создать на странице закладку (или якорь).</p>
+ 
+<ul> 
+  <li>Для этого установите курсор указателя мыши в необходимое место и нажмите на кнопку <img src="cid:resources/res108/vyv7j.anchor.gif" border="0"  /> <b>Якорь</b> панели инструментов. Появится диалог создания якоря. 
+    <p><img src="cid:resources/res108/WuzjW.anchor.png" border="0" height="125" width="421"  /></p>
+   </li>
+ 
+  <li>Введите название якоря (закладки). Пусть это будет <b>history</b>. </li>
+ 
+  <li>Нажмите кнопку <b>Сохранить</b>, после чего на странице появится изображение якоря. 
+    <p><img src="cid:resources/res108/jU2p0.flag.png" border="0" height="207" width="376"  /> </p>
+   </li>
+ 
+  <p>В коде якорь задается с помощью атрибута <b>name</b> тега <b>&lt;a&gt;</b>:</p>
+ 
+  <pre class="syntax">&lt;a name=&quot;history&quot;&gt;&lt;/a&gt;</pre>
+ </ul>
+ 
+<p>Ниже вы можете познакомиться с видео-роликом, наглядно демонстрирующим процесс создания и изменения гиперссылок. (2 минуты 48 секунд, 9.75 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_594465" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-1.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res108/dzDp9.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_594465" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-1.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-1.flv" >Загрузить</a> ролик.</p>
+ 
+<p>Теперь создайте ссылку на этот якорь</p>
+ 
+<ul>Для этого: 
+  <li>Выделите слово, которое будет служить ссылкой (например: &quot;Сайт&quot;) и нажмите кнопку <img src="cid:resources/res108/sCdOb.link.gif" border="0"  /> <b>Ссылка</b>. Появится диалог создания ссылки как в случае <b>Ссылка на документ на сервере</b>. </li>
+ 
+  <li>В поле <b>Тип</b> выберите из списка вариант <b>Ссылка внутри данного документа</b>. Диалог примет вид: 
+    <p></p>
+   
+    <p><img src="cid:resources/res108/SLyUD.inner_link.png" width="541" height="332" border="0" alt="Форма создания ссылки внутри данного документа"  /> </p>
+   </li>
+ 
+  <li>В поле <b>Закладка</b> в выпадающем списке будут доступны все закладки (якоря), созданные на данной странице. Выберите необходимую закладку и укажите <b>Текст ссылки</b></li>
+ 
+  <li>Заполните, по желанию, все остальные поля формы.</li>
+ 
+  <li>После того, как указаны все параметры, нажмите кнопку <b>Сохранить</b>.</li>
+ </ul>
+ 
+<p>Теперь в публичной части при нажатии на ссылку будет осуществлен переход к закладке на данной странице.</p>
+ 
+<br />
+ 
+<h4>Электронный адрес</h4>
+ 
+<p>Среди возможных типов ссылок есть пункт <b>Электронный адрес (EMail)</b>. Выбрав этот тип, с помощью формы можно создать ссылку отправки электронного сообщения. При клике по этой ссылке будет запущена та почтовая программа, которая установлена в настройках браузера по умолчанию. </p>
+ 
+<p>Для создания такой ссылки выполните следующее:</p>
+ 
+<ul> 
+  <li>Напишите текст ссылки, выделите его и нажмите кнопку <img src="cid:resources/res108/XK0rT.link.gif" border="0"  /> <b>Ссылка</b> на панели редактирования. Появится диалог создания ссылки как в случае <b>Ссылка на документ на сервере</b>.</li>
+ 
+  <li>В поле <b>Тип</b> выберите из списка вариант <b>Электронный адрес (EMail)</b>. Диалог примет вид: 
+    <p><img src="cid:resources/res108/qIA9I.email.png" width="541" height="302" border="0" alt="Форма создания ссылки на &quot;Электронный адрес (EMail)&quot;"  /> </p>
+   </li>
+ 
+  <li>Заполните поля формы и нажмите кнопку <b>Сохранить</b></li>
+ </ul>
+ 
+<p>После сохранения ссылки и выхода из редактора по этой ссылке будет запущена почтовая программа с заполненным полем адресата.</p>
+ 
+<p>В коде такая ссылка создается так:</p>
+ 
+<pre class="syntax"> <br />&lt;a href=&quot;mailto:info@1c-bitrix.ru&quot; title=&quot;написать <br />письмо&quot;&gt;Текст ссылки&lt;/a&gt;<br /></pre>
+ 
+<div class="hint"><b>Примечание</b>: после создания гиперссылки редактировать ее параметры можно в панели <b>Свойства</b> и в <b>контекстном меню</b>, если установить указатель мыши на ссылку. </div>
+ 
+<br />
+ Удалить ссылку можно, поставив курсор мыши на эту ссылку и нажав кнопку <img src="cid:resources/res108/nO2eo.dellink.gif" border="0"  /> <b>Удалить ссылку</b> панели редактирования, а также через контекстное меню. 
+<p>Ниже вы можете познакомиться с видео-роликом, наглядно демонстрирующим процесс создания и изменения гиперссылок. (2 минуты 2 секунды, 12.56 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_174714" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-2.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res108/5mqIt.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_174714" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-2.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/8-2.flv" >Загрузить</a> ролик.</p>
+ 			 			]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

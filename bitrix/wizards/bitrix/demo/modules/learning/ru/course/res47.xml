@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>635</id>
+<timestamp_x>1287997358</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id></chapter_id>
+<name>Управление структурой</name>
+<code></code>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В разделе рассматривается процесс управления структурой сайта.</p>
+
+<p>Управление структурой возможно двумя способами:</p>
+<ul>
+<li>через <b>Публичный раздел</b> с помощью кнопки <b>Структура</b>;</li>
+<li>через <b>Административный раздел</b> с помощью <b>Менеджера файлов</b>.</li> 
+ </ul>
+ 
+<p>Контент-менеджеру рекомендуется использовать первый способ. Тем не менее, в ряде случаев допустимо и обращение к <b>Менеджеру файлов</b>.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

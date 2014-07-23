@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>673</id>
+<timestamp_x>1289996912</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>665</chapter_id>
+<name>Управление параметрами компонента</name>
+<code></code>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В главе описаны управление параметрами размещенных на страницах сайта компонентов в разных интерфейсах - в старом (до версии продукта 9.5) и новом ("Эрмитаж", версия 9.5 и выше). </p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

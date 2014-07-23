@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>665</id>
+<timestamp_x>1290688980</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>632</chapter_id>
+<name>Работа с компонентами</name>
+<code></code>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>В данной главе курса рассказывается о работе с компонентами: их размещении, настройке, управлении параметрами в разных интерфейсах.</p>
+
+<p><div class="hint"><b>Примечание</b>: Права на работу с определенными компонентами могут быть ограничены администратором сайта. В этом случае контент-менеджер просто не увидит иконок компонентов в визуальном редакторе.</div></p>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>

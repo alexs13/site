@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1892</id>
+<timestamp_x>1288686857</timestamp_x>
+<date_create>1288686763</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>647</chapter_id>
+<name>Загрузка изображений</name>
+<sort>200</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Упрощенный HTML-редактор позволяет загружать графику и размещать ее на странице. Процесс размещения изображения очень прост:</p>
+<ul>
+  <li>Выберите место для изображения на странице, установив туда курсор, и нажмите кнопку <img src="cid:resources/res119/mII2m.but_image.png" height="22" width="22" alt="Параметры изображения"> на панели инструментов. Откроется диалог <b>Параметры изображения</b>:</li>
+  <p><img src="cid:resources/res119/ceW4r.light_editor_new_image.png" height="284" width="432"></p>
+  <li>Укажите расположение картинки в поле <b>Путь к изображению</b>.</li>
+
+  <li>В поле <b>Всплывающая подсказка</b> укажите текст, который будет отображен при наведении курсора мыши на изображение.</li>
+  <li>Задайте <b>Выравнивание</b> изображения:</li>
+  <p><img src="cid:resources/res119/0HksH.light_editor_image_align.png" height="284" width="432" alt="Выравнивание изображения" ></p>
+  <li>Если отмечена опция <b>Сохранять пропорции</b>, то значения полей <b>Размеры (Ш х В)</b> будут заполнены автоматически. Также можно указать другие размеры.</li>
+
+  <li>Нажмите кнопку <b>Сохранить</b>.</li>
+</ul>
+<p>В результате добавленное изображение будет отображено в упрощенном редакторе:</p>
+<p><img src="cid:resources/res119/taPjt.light_editor_image.png" height="117" width="506" alt="Результат"></p>
+			
+
+			]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

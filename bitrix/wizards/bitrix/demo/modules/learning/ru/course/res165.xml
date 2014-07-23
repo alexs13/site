@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>2066</id>
+<timestamp_x>1292257702</timestamp_x>
+<date_create>1291972348</date_create>
+<created_by>6104</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>731</chapter_id>
+<name>Управление альбомами</name>
+<sort>400</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Главная страница фотогалереи со списком альбомов имеет следующий вид:</p>
+<p><img src="cid:resources/res165/miJpL.album_list1.png" width="548" height="406" border="0" /></p>
+<p>Если альбом имеет вложенные альбомы, то страница детального просмотра имеет вид:</p>
+
+<p><img src="cid:resources/res165/TpFLw.album_detail.png" width="526" height="557" border="0" /></p>
+
+<p>По умолчанию в качестве обложки фотоальбома устанавливается изображение первой фотографии в этом альбоме. Для изменения обложки служит пиктограмма на обложке альбома на странице списка альбомов:</p>
+
+<p><img src="cid:resources/res165/WFZCc.change_name_page.png" width="247" height="182" border="0" /></p>
+
+
+
+<p>На странице просмотра содержимого фотоальбома изменить обложку можно с помощью кнопки <b>Изменить альбом</b>:</p>
+
+<p><img src="cid:resources/res165/1RgnA.change_name_page1.png" width="226" height="132" border="0" /></p>
+
+<p>Откроется следующая форма:</p>
+
+
+<p><img src="cid:resources/res165/05mkX.change_name_page_form.png" width="600" height="400" border="0" /></p>
+
+<p>Картинка-анонс и картинка альбома генерируются из отмеченных флагом фотографий. Например, обложка может иметь следующий вид:</p>
+
+<p><img src="cid:resources/res165/vGcN9.album_picture.png" width="146" height="122" border="0" /></p>
+
+<p>Редактирование параметров альбома и удаление альбома производится как на странице его просмотра, так и на странице списка альбомов с помощью пиктограмм на обложке альбома или с помощью кнопки <b>Изменить альбом</b> на странице просмотра альбома. Причем, если удаляется альбом, который имеет вложенные в себя альбомы, то будут удалены все альбомы.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

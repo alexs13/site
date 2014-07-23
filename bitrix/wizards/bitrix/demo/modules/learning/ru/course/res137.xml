@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1909</id>
+<timestamp_x>1289404687</timestamp_x>
+<date_create>1289314497</date_create>
+<created_by>18113</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>665</chapter_id>
+<name> Панель компонентов в визуальном редакторе</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Для быстрого размещения компонентов на странице разработан интерфейс на базе визуального HTML-редактора. </p>
+ 
+<p><img src="cid:resources/res137/bZ7uX.visual_editor.png"  width="697" height="652" border="0"/></p>
+
+<br>
+ 
+<p>Все визуальные компоненты расположены на специальной панели компонентов. Вид этой панели зависит от настроек визуального редактора.
+Переход к настройкам осуществляется при помощи кнопки <img width="22" height="22" src="cid:resources/res137/WjVe7.but_vis_editor_set.png" />.</p>
+
+
+<p>На закладке <b>Панели задач</b> формы <b>Настройки визуального редактора</b> отмечаются флажком панели, необходимые для отображения в окне редактора.</p>
+ 
+<p><img src="cid:resources/res137/TopDG.vis_editor_set.png" width="620" height="261" border="0"/></p>
+
+<br>
+<p>Закладка <b>Компоненты</b> в визуальном редакторе вызывается с помощью кнопки <img src="cid:resources/res137/BnDtD.but_components.png" width="161" height="22" border="0"/>. Все компоненты сгруппированы по разделам (Контент, Сервис, Общение, Магазин, Служебные), которые в свою очередь состоят из подразделов.</p>
+
+<p><img src="cid:resources/res137/fAi6E.all_components_1.png" width="248" height="330" border="0"/> <img src="cid:resources/res137/Fkm2v.all_components_2.png" width="248" height="330" border="0"/></p>
+
+<br>
+<p>Доступны следующие действия управления закладкой <b>Компоненты</b> на панели задач:</p>
+
+<p><img src="cid:resources/res137/XVnYT.taskboard_options.png" width="284" height="341" border="0"/></p>
+
+<ul>
+<li>По кнопке <img src="cid:resources/res137/4lJaH.but_minimize.png" width="17" height="17" border="0"/> <b>Свернуть</b> можно временно скрыть панель. Вернуть ее можно, используя кнопку <img src="cid:resources/res137/5grPu.but_components.png" width="161" height="22" border="0"/>. </li>
+<li>Кнопка <b>Обновить закешированные данные</b> позволяет сбросить кеш, например, если были добавлены собственные компоненты.</li> 
+<li>Кнопка <b>Настроить</b> вызывает форму настройки внешнего вида редактора, которая также доступна по кнопке <img width="22" height="22" src="cid:resources/res137/hUxUY.but_vis_editor_set.png" /> <b>Настройки</b> панели инструментов визуального редактора.</li> 
+<li>Кнопка <b>Закрыть</b> закрывает отображаемую панель. Восстановить ее отображение можно с помощью формы настройки редактора (кнопка <img width="22" height="22" src="cid:resources/res137/z1HT8.but_vis_editor_set.png" />).</li>
+</ul>
+
+<br>
+
+
+<div class="hint"><b>Примечание</b>: В версии продукта до 9.5 присутствует закладка <b>Компоненты 1.0</b>. Она позволяет добавлять на страницу компоненты 1.0, которые устарели и не рекомендуются к использованию.
+<p><img src="cid:resources/res137/CJKgM.comp_1.0_tab.png" width="270" height="36" border="0"/></p>
+ </div>
+]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

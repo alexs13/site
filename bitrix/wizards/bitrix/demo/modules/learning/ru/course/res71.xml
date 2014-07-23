@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1858</id>
+<timestamp_x>1288253123</timestamp_x>
+<date_create>1287668699</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>648</chapter_id>
+<name>Управление элементами коллекции</name>
+<sort>400</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<h3>Контекстная панель элемента</h3>
+<p>При наведении курсора на элемент коллекции отображается контекстная панель данного элемента, позволяющая:</p>
+<p><img src="cid:resources/res71/nic7X.medialib_edit_elem.png" width="157" height="142"></p>
+<ul>
+	<li><img src="cid:resources/res71/spBFb.view.png" width="17" height="18"> - перейти к детальному просмотру элемента:</li>
+
+<p><img height="580" border="0" width="590" src="cid:resources/res71/5bh3X.medialib_view_elem.png" /></p>
+
+	<li><img src="cid:resources/res71/SJGyd.edit_elem.png" width="17" border="0"  height="18"> - перейти к редактированию элемента;</li>
+	<li><img src="cid:resources/res71/MkNHE.delete.png" width="17" border="0"  height="18"> - удалить элемент из коллекции.</li>
+</ul>
+
+<h3>Редактирование элемента</h3>
+<p>Чтобы отредактировать элемент коллекции, выполните следующее:</p>
+<ul>
+	<li>Наведите курсор на изображение и кликните по иконке <img src="cid:resources/res71/A0Tv3.edit_elem.png" width="17" border="0"  height="18">;</li>
+	<li>В открывшейся форме редактирования элемента внесите необходимые изменения:</li>
+
+<p><img height="342" border="0" width="422" src="cid:resources/res71/Z1QCm.medialib_edit_elem_form.png" /></p>
+	<p>Ссылка <b>Изменить</b> позволяет выбрать новый файл вместо текущего:</p>
+
+<p><img height="342" border="0" width="422" src="cid:resources/res71/BKQbf.medialib_edit_elem_new.png" /></p>
+	
+	<li>Нажмите кнопку <b>Сохранить</b>, чтобы изменения вступили в силу. Чтобы изменения не были сохранены, воспользуйтесь кнопкой <b>Отмена</b>.</li>
+</ul>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

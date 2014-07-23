@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1837</id>
+<timestamp_x>1289301872</timestamp_x>
+<date_create>1287573181</date_create>
+<created_by>21419</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>638</chapter_id>
+<name>Режим Разработка</name>
+<sort>300</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Режим предназначен для использования разработчиками сайта, т.к. предоставляет возможности по изменению внешнего облика сайта (настройки параметров компонентов, изменение стилей шаблона сайта и др.)</p>
+<p>Режим <b>Разработка</b> содержит все действия из режимов <b>Просмотр</b> и <b>Редактирование</b> и дополнительно позволяет:</p>
+<ul>
+  <li>Редактировать текущую страницу в режиме полного php-кода:
+  <p><img hight="167" width="232" border="0" src="cid:resources/res12/rPc92.php_edit.png" /></p>
+  </li>
+
+  <li>Редактировать параметры компонентов, использованных на текущей странице:
+  <p><img hight="227" width="218" border="0" src="cid:resources/res12/0Q49r.components_list.png" /></p>
+  </li>	  
+
+  <li>Редактировать шаблон: изменить стили сайта и стили шаблона в форме из публичной части или перейти к полному редактированию шаблона в нужном разделе панели управления:
+  <p><img hight="117" width="368" border="0" src="cid:resources/res12/hkGnl.template_edit.png" /></p>
+  </li>
+
+  <li>Расширены возможности работы с кешем: можно обновить кеш компонентов:
+  <p><img hight="95" width="206" border="0" src="cid:resources/res12/aRSKM.cache_button_dev.png" /></p>
+  </li>
+
+  <li>Режим предоставляет разработчику отладочную информацию, которая позволяет оценить время отработки различных областей на странице, компонентов или всей страницы в целом:
+  <p><img hight="145" width="245" border="0" src="cid:resources/res12/0eFjb.dev_statistics.png" /></p>
+  </li>
+</ul>
+ 
+<p>Компоненты и включаемые области выделены на странице и для каждой имеется определенный набор действий, доступный по клику на иконку <img hight="25" width="48" border=0 src="cid:resources/res12/nKBjJ.dev_action_button.png" />:</p>
+
+<p><img height="376" border="0" width="497" src="cid:resources/res12/qTohx.component_actions.png" /></p>
+
+<p>В режиме <b>Разработка</b> доступны следующие действия над компонентами (например, для компонента <b>Меню (bitrix:menu)</b>):</p>
+<p><img hight="144" width="316" border=0 src="cid:resources/res12/rbgYC.bitrix_menu_actions.png" /></p>
+<ul>
+  <li><b>Редактировать параметры компонента</b> в форме из публичной части. После сохранения установленные настройки будут сразу применены.</li>
+  <li><b>Копировать шаблон компонента</b>.</li>
+  <li><b>Редактировать шаблон  компонента</b> - позволяет изменить текущий шаблон. Однако если применен системный шаблон, то его необходимо сначала скопировать в шаблон сайта.</li>
+  <li>Другие действия, набор которых зависит от специфики данного компонента.</li>
+</ul>
+ 
+<p><div class="hint"><b>Примечание</b>: подробно о работе с компонентами смотрите в разделе <a href="http://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&CHAPTER_ID=632" target="_blank">
+Компоненты 2.0 (начальные сведения)</a>.</div></p> ]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

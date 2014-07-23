@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1891</id>
+<timestamp_x>1290603676</timestamp_x>
+<date_create>1288686386</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>647</chapter_id>
+<name>Форматирование текста</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Упрощенный HTML-редактор позволяет производить несложное форматирование текста. Он автоматически подключается в формах, не требующих возможностей полного редактора, например, комментарии к сообщениям блога. С помощью инструментов редактора можно:</p>
+
+<p><img src="cid:resources/res118/lcAXo.light_editor_text_format.png" border="0" height="350" width="573" alt="Форматирование текста"></p>
+
+
+<ul>
+	<li>задать начертание текста с помощью кнопок <b>Жирный</b>, <b>Курсив</b> и <b>Подчеркнутый</b>:
+
+	<p><img src="cid:resources/res118/l0vCm.but_text_biu.png" border="0" height="22" width="68"></p>
+  </li>
+  
+	<li><b>Удалить форматирование</b> (<img src="cid:resources/res118/BIKfQ.but_delete_format.png" border="0" height="22" width="22">);</li>
+  
+	<li>вставить <b>Ссылку</b> (<img src="cid:resources/res118/yRF8Z.but_create_link.png" border="0" height="22" width="22">) и <b>Удалить ссылку</b> (<img src="cid:resources/res118/D0nUR.but_delete_link.png" border="0" height="22" width="22">):
+
+	<p><img src="cid:resources/res118/pyqhW.link_options.png" border="0" height="253" width="441"></p>
+  
+  </li>
+  
+	<li>выбрать <b>Цвет шрифта</b> (<img src="cid:resources/res118/a75nJ.but_font_color.png" border="0" height="22" width="22">) и <b>Цвет фона</b> (<img src="cid:resources/res118/2AvE4.but_back_color.png" border="0" height="22" width="22">) с помощью палитры цветов:
+	<p><img src="cid:resources/res118/5yDAT.light_editor_colors.png" border="0" height="181" width="324"></p>
+  </li>
+  
+	<li>задать выравнивание текста с помощью кнопок <b>По левому краю</b>, <b>По центру</b>, <b>По правому краю</b> или <b>По ширине</b>:
+
+	<p><img src="cid:resources/res118/9fufq.but_text_align.png" border="0" height="22" width="91"></p>
+  </li>
+  
+  
+	<li>создать <b>Нумерованный список</b> (<img src="cid:resources/res118/44Mhx.but_numer_list.png" border="0" height="22" width="22">) или <b>Список с маркерами</b> (<img src="cid:resources/res118/KlsTr.but_marker_list.png" border="0" height="22" width="22">);</li>
+  
+	<li>задать отступ текста с помощью кнопок <b>Уменьшить отступ</b> (<img src="cid:resources/res118/zfxUQ.but_text_space_dec.png" border="0" height="22" width="22">) и <b>Увеличить отступ</b> (<img src="cid:resources/res118/kj53E.but_text_space_inc.png" border="0" height="22" width="22">);</li>
+
+	<li>применить <b>Формат</b> текста:
+  
+  	<p><img src="cid:resources/res118/mpBlM.light_editor_font_format.png" order="0" height="224" width="152"></p>
+   </li>
+  
+	<li>выбрать <b>Шрифт</b>:
+	<p><img src="cid:resources/res118/WGCrQ.light_editor_font.png" border="0" height="150" width="152"></p>
+   </li>
+  
+	<li>указать <b>Размер шрифта</b>:
+
+	<p><img src="cid:resources/res118/YC4k8.light_editor_font_size.png" order="0" height="213" width="152">
+  </li>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

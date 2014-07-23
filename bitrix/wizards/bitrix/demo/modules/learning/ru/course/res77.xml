@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="LES"><id>1830</id>
+<timestamp_x>1295519073</timestamp_x>
+<date_create>1287500739</date_create>
+<created_by>64579</created_by>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id>639</chapter_id>
+<name>Внешний вид редактора</name>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Рассмотрим внешний вид редактора и его панели подробнее. Визуальный редактор, открываемый из Публичной части и из Административного раздела несколько различается по функционалу. Будем описывать окно редактора в Административном разделе, т.к. в нем доступен несколько более широкий набор кнопок и возможностей, чем в Публичной части.</p>
+ 
+<p><img src="cid:resources/res77/RVKqr.visual_editor_admin.png" border="0" width="776" height="577"  /></p>
+ 
+<h3>Панель инструментов</h3>
+ 
+<p>Общая панель инструментов визуального редактора состоит из нескольких меньших панелей, в каждой из которых объединены кнопки по своему назначению. Детальное описание панелей приводится на страницах с описанием конкретных видов работ.</p>
+ 
+<ul> 
+  <li>Стандартные 
+    <p><img src="cid:resources/res77/a1dZ1.standard_panel.png" border="0" width="513" height="26"  /></p>
+   </li>
+ 
+  <li>Шаблон сайта 
+    <p><img src="cid:resources/res77/mpSJV.template_panel.png" border="0" width="173" height="26"  /></p>
+   </li>
+ 
+  <li>Управление и настройки 
+    <p><img src="cid:resources/res77/77gY5.manage_panel.png" border="0" width="267" height="26"  /></p>
+   </li>
+ 
+  <li>Стиль 
+    <p><img src="cid:resources/res77/SyNbA.style_panel.png" border="0" width="372" height="26"  /></p>
+   </li>
+ 
+  <li>Форматирование 
+    <br />
+   
+    <br />
+   <img src="cid:resources/res77/3lU3l.format_panel.png" border="0" width="268" height="26"  /> </li>
+ </ul>
+ 
+<p>В административном разделе на каждой из этих панелек имеются специальные области для перемещения панели в любое место окна редактора.</p>
+ 
+<p><img src="cid:resources/res77/bVw8v.move_panel_area.png" border="0" width="173" height="25"  /></p>
+ 
+<p>При наведении курсора на выделенную область курсор меняет внешний вид. </p>
+ 
+<p><img src="cid:resources/res77/4NIdR.move_panel.png" border="0" width="178" height="25"  /> </p>
+ 
+<p>Теперь вы можете перетаскивать панель в любую область редактора. После переноса вы можете ее закрыть, нажав на кнопку <b>Х</b> в правом верхнем углу панели.</p>
+ 
+<p><img src="cid:resources/res77/QA1pr.template_panel_2.png" height="38" width="174"  /></p>
+ 
+<p>Восстановить отображение панели можно с помощью кнопки <img src="cid:resources/res77/ezIT1.settings_button.png" border="0" height="22" width="22"  /> <strong>Настройки</strong>.</p>
+ 
+<div class="hint"><b>Примечание:</b> Подробнее о настройке внешнего вида смотрите в уроке <a href="https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=34&LESSON_ID=1834" >Настройка внешнего вида редактора</a>.</div>
+
+<br> 
+
+<div class="important"><b>Внимание!</b> Состав и набор кнопок на панели инструментов может отличаться, в зависимости от режима работы редактора и настроек администратора.</div>
+
+
+<h3 class="hint">Панель задач</h3>
+ 
+<p>Панель задач может состоять из нескольких закладок: <b>Компоненты</b> и <b>Сниппеты</b>. </p>
+
+<p><img src="cid:resources/res77/ZA4Gg.comp_tabs.png" height="46" width="206"  /></p>
+
+<div class="hint"><b>Примечание:</b> В версии продукта до 9.5 присутствует закладка <b>Компоненты 1.0</b>. Она позволяет добавлять на страницу компоненты 1.0, которые устарели и не рекомендуются к использованию.
+<p><img src="cid:resources/res77/hp225.comp_1.0_tab.png" height="36" width="270"  /></p>
+</div>
+
+<p>Отображать и скрывать панели <b>Компоненты</b> и <b>Сниппеты</b> можно с помощью соответствующих кнопок панели <b><font size="4" color="#00c0ff">6</font></b>. Доступны следующие действия управления панелью задач:</p>
+ 
+<p><img src="cid:resources/res77/hF2Cd.task_actions.png" height="132" width="274"  /></p>
+ 
+<ul> 
+  <li>По кнопке <strong>Свернуть</strong> можно временно скрыть панель. Вернуть ее можно, используя кнопки панели <strong><font size="4" color="#00c0ff">6</font></strong>. </li>
+ 
+  <li>Кнопка <strong>Обновить закешированные данные</strong> позволяет сбросить кеш, например, если были добавлены собственные компоненты. </li>
+
+
+ 
+  <li>Кнопка <strong>Настроить</strong> вызывает форму настройки внешнего вида редактора, которая также доступна по кнопке <img src="cid:resources/res77/oFWem.settings_button.png" border="0" height="22" width="22"  /> <strong>Настройки</strong> панели инструментов. </li>
+ 
+  <li>Кнопка <strong>Закрыть</strong> закрывает отображаемую панель. Восстановить ее отображение можно с помощью формы настройки редактора (кнопка <img src="cid:resources/res77/yGc89.settings_button.png" border="0" height="22" width="22"  />). </li>
+ </ul>
+ 
+<p> Ниже вы можете познакомиться с видео-роликом, в котором подробно рассматриваются внешний вид редактора и его панели. (2 минуты 17 секунд, 7.86 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_960795" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-1.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res77/wwkiG.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_960795" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-1.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-1.flv" >Загрузить</a> ролик.</p>
+ 
+<h3>Панель переключения режимов редактирования</h3>
+ 
+<p>Панель переключения режимов редактирования состоит из следующих кнопок: </p>
+ 
+<p><img src="cid:resources/res77/tAH83.regimes.png" border="0" height="101" width="24"  /> </p>
+ 
+<p>Кнопка <img src="cid:resources/res77/qVYqV.textrej.gif" border="0"  /> служит для перехода от визуального режима к работе с исходным кодом. В режиме работы с исходным кодом не все кнопки панели редактирования доступны. Можно работать только с панелью <strong>Управление и настройки</strong> <img src="cid:resources/res77/IG97i.manage_panel.png" border="0" height="26" width="267"  />, а также доступными остаются кнопки <img src="cid:resources/res77/si7hx.fs.png" height="13" width="15"  /> и <img src="cid:resources/res77/RPRp3.settings_button.png" border="0" height="22" width="22"  />. Остальные кнопки панели редактирования заблокированы. </p>
+ 
+<p>Кнопка <img src="cid:resources/res77/ze6wp.wysiwyg.gif" border="0"  /> служит для перехода обратно к режиму визуального редактирования.</p>
+ 
+<p>Кнопка <img src="cid:resources/res77/hS1wg.split.gif" border="0"  /> служит для перехода в совмещенный режим редактирования, при котором можно работать одновременно и с визуальной частью, и с исходным кодом: </p>
+ 
+<p><img src="cid:resources/res77/3GqmX.combined_mode.png" border="0" height="353" width="551"  /></p>
+ 
+<p>При работе с исходным кодом и в совмещенном режиме редактирования становится доступной кнопка <img src="cid:resources/res77/uNBgk.wrap.gif" border="0"  />, которая служит для переноса не поместившейся на текущей строке части кода на следующие строки. Заметим, что эта кнопка присутствует и работает только в браузере <strong>Internet Explorer</strong>.</p>
+ 
+<div class="important"><b>Внимание!</b> Режим работы с исходным кодом рекомендуется использовать только подготовленным пользователям.</div>
+ 
+<h3>Панель отображения свойств объектов (Свойства)</h3>
+ 
+<p>В области <b>Свойства</b> отображаются свойства того объекта, на котором установлен курсор мыши в данный момент. Это может быть визуальный компонент, тогда в области <b>Свойства</b> можно будет настроить параметры этого компонента. Панель <b>Свойства</b> также является скрывающейся, что регулируется кнопкой панели <b><font size="4" color="#00c0ff">6</font></b>. Доступны следующие действия управления панелью <strong>Свойства</strong>:</p>
+ 
+<p><img src="cid:resources/res77/twlKD.properties_actions.png" height="91" width="136"  /></p>
+ 
+<ul> 
+  <li>По кнопке <strong>Свернуть</strong> можно временно скрыть панель. Вернуть ее можно, используя кнопки панели <strong><font size="4" color="#00c0ff">6</font></strong>. </li>
+ 
+  <li>Кнопка <strong>Настроить</strong> вызывает форму настройки внешнего вида редактора, которая также доступна по кнопке <img src="cid:resources/res77/ojkiJ.settings_button.png" border="0" height="22" width="22"  /> <strong>Настройки</strong> панели инструментов. </li>
+ </ul>
+ 
+<p> Ниже вы можете познакомиться с видео-роликом, в котором подробно рассматриваются внешний вид редактора и его панели. (2 минуты 17 секунд, 7.86 Мб.) 
+  <br />
+ </p>
+ 
+<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" id="bxid_804887" width="800" height="620" ><param name="movie" value="/bitrix/components/bitrix/player/mediaplayer/player.swf"><param name="menu" value="true"><param name="wmode" value="transparent"><param name="width" value="800"><param name="height" value="620"><param name="flashvars" value="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-2.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true"><embed src="cid:resources/res77/SGFkm.player.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" pluginspage="http://www.macromedia.com/go/getflashplayer" id="bxid_804887" menu="true" wmode="transparent" width="800" height="620" flashvars="file=http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-2.flv&logo.hide=true&skin=/bitrix/components/bitrix/player/mediaplayer/skins/bitrix.swf&repeat=N&bufferlength=10&dock=true" /></object></p>
+ 
+<p><a href="http://dev.1c-bitrix.ru/download/files/video/learning/teachvideo/5-2.flv" >Загрузить</a> ролик.</p>
+ ]]></detail_text>
+<detail_text_type>html</detail_text_type>
+<launch></launch>
+</content>

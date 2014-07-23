@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<content type="CHA"><id>630</id>
+<timestamp_x>1293118940</timestamp_x>
+<active>Y</active>
+<course_id>34</course_id>
+<chapter_id></chapter_id>
+<name>Элементы Управления</name>
+<code>manage</code>
+<sort>100</sort>
+<preview_picture></preview_picture>
+<preview_text></preview_text>
+<preview_text_type>text</preview_text_type>
+<detail_picture></detail_picture>
+<detail_text><![CDATA[<p>Раздел <b>Элементы управления</b> познакомит контент-менеджера с основными элементами управления <b>Публичного</b> и <b>Административного разделов</b>.</p>
+
+<div class="important"><b>Внимание!</b> Рекомендуется все работы по сайту проводить через <b>Публичный раздел</b>. <b>Административный раздел</b> предназначен для администраторов сайта и разработчиков. Тем не менее, некоторые работы с сайтом могут потребовать обращения к <b>Административному разделу</b>.</div>
+
+<p>Все скриншоты в учебном курсе взяты из стандартного дистрибутива программы.</p>]]></detail_text>
+<detail_text_type>html</detail_text_type>
+</content>
